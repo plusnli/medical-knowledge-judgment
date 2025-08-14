@@ -231,7 +231,7 @@ def get_uncertainty(args, data):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()    
     parser.add_argument('--model', type=str, 
-                        choices=['gpt-3.5-turbo', 'gpt-4o-mini', 'gpt-4o', 'claude-3-haiku-20240307', 'claude-3-sonnet-20240229', 'claude-3-5-sonnet-20240620', 'llama-3-8B', 'llama-3.1-8B', 'llama-3.2-1B', 'llama-3.2-3B', 'ministral-8B', 'qwen2.5-0.5B', 'qwen2.5-1.5B', 'qwen2.5-3B', 'phi-3-mini-4k', 'phi-3-mini-128k', 'phi-3.5-mini', 'meditron-7b', 'mellama-13B', 'llama-2-7B', 'llama-2-13B'])
+                        choices=['gpt-3.5-turbo', 'gpt-4o-mini', 'gpt-4o', 'claude-3-haiku-20240307', 'claude-3-sonnet-20240229', 'claude-3-5-sonnet-20240620', 'llama-3-8B', 'llama-3.1-8B', 'llama-3.2-1B', 'llama-3.2-3B', 'ministral-8B', 'qwen2.5-0.5B', 'qwen2.5-1.5B', 'qwen2.5-3B', 'phi-3-mini-4k', 'phi-3-mini-128k', 'phi-3.5-mini', 'meditron-7B', 'mellama-13B', 'llama-2-7B', 'llama-2-13B'])
     parser.add_argument('--temperature', type=float, default=0)
     parser.add_argument('--openai_api', type=str, default='your-openai-api-key')
     parser.add_argument("--claude_api", type=str, default='your-claude-api-key')
@@ -254,8 +254,8 @@ if __name__ == "__main__":
         'phi-3-mini-4k': 'microsoft/Phi-3-mini-4k-instruct', 
         'phi-3-mini-128k': 'microsoft/Phi-3-mini-128k-instruct', 
         'phi-3.5-mini': 'microsoft/Phi-3.5-mini-instruct',
-        'meditron-7b': 'epfl-llm/meditron-7b', 
-        'mellama-13B': '../me-llama/1.0.0/MeLLaMA-13B-chat',
+        'meditron-7B': 'epfl-llm/meditron-7b', 
+        'mellama-13B': 'me-llama/1.0.0/MeLLaMA-13B-chat',  # Need to be downloaded from https://www.physionet.org/content/me-llama/1.0.0/.
         'llama-2-7B': 'meta-llama/Llama-2-7b-chat-hf', 
         'llama-2-13B': 'meta-llama/Llama-2-13b-chat-hf'
     }
