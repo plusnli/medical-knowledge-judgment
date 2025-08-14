@@ -1,0 +1,2223 @@
+[
+    {
+        "original_triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine hydrochloride"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The quinine hydrochloride may be used to prevent Muscle Cramp.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The zolmitriptan may be used to prevent Muscle Cramp.",
+                "The rapacuronium bromide may be used to prevent Muscle Cramp.",
+                "The dexchlorpheniramine tannate may be used to prevent Muscle Cramp."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The quinine may be used to prevent Muscle Cramp.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The trimethoprim lactate may be used to prevent Muscle Cramp.",
+                "The Cholinergic Antagonists may be used to prevent Muscle Cramp.",
+                "The olopatadine hydrochloride may be used to prevent Muscle Cramp."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "atresia del conducto nasolagrimal",
+            "predicate": "has associated morphology",
+            "object": "atresia"
+        },
+        "semantic_type": [
+            "Congenital Abnormality"
+        ],
+        "pos_qa": {
+            "statement": "The morphology atresia is associated with the condition atresia del conducto nasolagrimal.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The morphology Congenital abnormality of lacrimal drainage system is associated with the condition atresia del conducto nasolagrimal.",
+                "The morphology diaphragm; defect, congenital, gross (with hernia) is associated with the condition atresia del conducto nasolagrimal.",
+                "The morphology Congenital hemihypertrophy is associated with the condition atresia del conducto nasolagrimal."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Mass",
+            "predicate": "associated morphology of",
+            "object": "mobile mass of right lacrimal sac"
+        },
+        "semantic_type": [
+            "Finding"
+        ],
+        "pos_qa": {
+            "statement": "The morphology of mobile mass of right lacrimal sac is associated with Mass.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The morphology of Beaking of vertebral bodies is associated with Mass.",
+                "The morphology of Family Medical History is associated with Mass.",
+                "The morphology of contact; infection sexually transmitted is associated with Mass."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "endocarditis",
+            "predicate": "associated with",
+            "object": "sbe"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The sbe is associated with endocarditis.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Splenic Infection is associated with endocarditis.",
+                "The FOCAL CORTICAL DYSPLASIA, TYPE II, SOMATIC is associated with endocarditis.",
+                "The Cardiovascular Diseases is associated with endocarditis."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "endocarditis",
+            "predicate": "associated with",
+            "object": "ie"
+        },
+        "semantic_type": [
+            "Virus"
+        ],
+        "pos_qa": {
+            "statement": "The ie is associated with endocarditis.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Venezuelan equine encephalitis virus subtype IE is associated with endocarditis.",
+                "The hemorrhagic fever virus is associated with endocarditis.",
+                "The Rhinovirus is associated with endocarditis."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "CONFUSION",
+            "predicate": "clinically associated with",
+            "object": "HEPATIC ENCEPHALOPATHY"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The HEPATIC ENCEPHALOPATHY is clinically associated with CONFUSION.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Patau syndrome is clinically associated with CONFUSION.",
+                "The Trisomy 22 mosaicism syndrome is clinically associated with CONFUSION.",
+                "The Ruptured Appendicitis is clinically associated with CONFUSION."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "amlodipine",
+            "predicate": "has parent",
+            "object": "Dihydropyridine Calcium Channel Blocker"
+        },
+        "semantic_type": [
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The Dihydropyridine Calcium Channel Blocker is a parent compound of amlodipine.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Antidepressive Agents is a parent compound of amlodipine.",
+                "The ondansetron hydrochloride is a parent compound of amlodipine.",
+                "The Parasympatholytics is a parent compound of amlodipine."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine ascorbate"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The quinine ascorbate may be used to prevent Muscle Cramp.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Apo-Prednisone may be used to prevent Muscle Cramp.",
+                "The zolpidem tartrate may be used to prevent Muscle Cramp.",
+                "The sitagliptin may be used to prevent Muscle Cramp."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Human immunodeficiency virus infection",
+            "predicate": "has causative agent",
+            "object": "Human immunodeficiency virus"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Human immunodeficiency virus is the causative agent of Human immunodeficiency virus infection.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Myoneurogenic bladder disorders is the causative agent of Human immunodeficiency virus infection.",
+                "The Mycoplasma Infections is the causative agent of Human immunodeficiency virus infection.",
+                "The Autosomal dominant Charcot-Marie-Tooth disease type 2V is the causative agent of Human immunodeficiency virus infection."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Infection",
+            "predicate": "has expected outcome",
+            "object": "Deteriorate"
+        },
+        "semantic_type": [
+            "Finding"
+        ],
+        "pos_qa": {
+            "statement": "The expected outcome of the Infection is to Deteriorate.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The expected outcome of the Infection is to endocarditis as indication for cardiac catheterization.",
+                "The expected outcome of the Infection is to x-ray of toe: joint space narrowing of fifth metatarsophalangeal joint.",
+                "The expected outcome of the Infection is to Nutritional status: biochemical measures."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Nerve injury",
+            "predicate": "possibly equivalent to",
+            "object": "Trunk nerve injury NOS"
+        },
+        "semantic_type": [
+            "Injury or Poisoning"
+        ],
+        "pos_qa": {
+            "statement": "The condition Trunk nerve injury NOS is possibly equivalent to Nerve injury.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The condition Injury of nerve of trunk is possibly equivalent to Nerve injury.",
+                "The condition Open wound of ear auricle with complication is possibly equivalent to Nerve injury.",
+                "The condition Traumatic cerebral compression NOS is possibly equivalent to Nerve injury."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "OTITIS MEDIA",
+            "predicate": "clinically associated with",
+            "object": "EARACHE"
+        },
+        "semantic_type": [
+            "Sign or Symptom"
+        ],
+        "pos_qa": {
+            "statement": "The EARACHE is clinically associated with OTITIS MEDIA.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Rigor - Temperature-associated observation is clinically associated with OTITIS MEDIA.",
+                "The Prodromal Symptoms is clinically associated with OTITIS MEDIA.",
+                "The Other specified general symptoms and signs is clinically associated with OTITIS MEDIA."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "anesthesia",
+            "predicate": "used for",
+            "object": "electronarcosis"
+        },
+        "semantic_type": [
+            "Therapeutic or Preventive Procedure"
+        ],
+        "pos_qa": {
+            "statement": "The electronarcosis is used for anesthesia.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Electronarcosis is used for anesthesia.",
+                "The Tubal Ligation is used for anesthesia.",
+                "The Physical Treatment Methods is used for anesthesia."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Felodipine"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The disposition of Felodipine is related to the Calcium channel blocker.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The disposition of Oxytetracycline Hydrochloride Bulk powder is related to the Calcium channel blocker.",
+                "The disposition of tolbutamide sodium is related to the Calcium channel blocker.",
+                "The disposition of Adrenergic beta-Antagonists is related to the Calcium channel blocker."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "methadone",
+            "predicate": "has physiologic effect",
+            "object": "Decreased Organized Electrical Activity"
+        },
+        "semantic_type": [
+            "Physiologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The Decreased Organized Electrical Activity is a physiologic effect associated with methadone.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Menopause is a physiologic effect associated with methadone.",
+                "The Premenopause is a physiologic effect associated with methadone.",
+                "The Increased Immunologic Activity [PE] is a physiologic effect associated with methadone."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Reason for",
+            "predicate": "possibly equivalent to",
+            "object": "Indication for"
+        },
+        "semantic_type": [
+            "Idea or Concept"
+        ],
+        "pos_qa": {
+            "statement": "The condition Indication for is possibly equivalent to Reason for.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The condition Act Status - suspended is possibly equivalent to Reason for.",
+                "The condition Stressor is possibly equivalent to Reason for.",
+                "The condition Modality is possibly equivalent to Reason for."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "venlafaxine",
+            "predicate": "has physiologic effect",
+            "object": "Increased Central Nervous System Norepinephrine Activity"
+        },
+        "semantic_type": [
+            "Physiologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The Increased Central Nervous System Norepinephrine Activity is a physiologic effect associated with venlafaxine.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Physiological Correlates is a physiologic effect associated with venlafaxine.",
+                "The Increased Central Nervous System Norepinephrine Activity is a physiologic effect associated with venlafaxine.",
+                "The Increased Immunologic Activity [PE] is a physiologic effect associated with venlafaxine."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "diclofenac",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        },
+        "semantic_type": [
+            "Pathologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The Drug Hypersensitivity is a disease with which diclofenac is contraindicated.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Inflammatory morphology is a disease with which diclofenac is contraindicated.",
+                "The Surgical Complication is a disease with which diclofenac is contraindicated.",
+                "The Allergic process is a disease with which diclofenac is contraindicated."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "AORTIC STENOSIS",
+            "predicate": "clinically associated with",
+            "object": "HEART DISEASE"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The HEART DISEASE is clinically associated with AORTIC STENOSIS.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Fatty Liver, Alcoholic is clinically associated with AORTIC STENOSIS.",
+                "The Vascular occlusion is clinically associated with AORTIC STENOSIS.",
+                "The HEARING AND VESTIBULAR DISORDERS is clinically associated with AORTIC STENOSIS."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Flatus",
+            "predicate": "concept in subset",
+            "object": "FDA Center For Devices and Radiological Health Terminology"
+        },
+        "semantic_type": [
+            "Functional Concept"
+        ],
+        "pos_qa": {
+            "statement": "The FDA Center For Devices and Radiological Health Terminology is a concept in the subset of Flatus.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Therapy - action is a concept in the subset of Flatus.",
+                "The causes of AODU is a concept in the subset of Flatus.",
+                "The Discontinuation (procedure) is a concept in the subset of Flatus."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "gabapentin",
+            "predicate": "has mechanism of action",
+            "object": "Unknown Cellular or Molecular Interaction"
+        },
+        "semantic_type": [
+            "Molecular Function"
+        ],
+        "pos_qa": {
+            "statement": "The mechanism of action of gabapentin involves Unknown Cellular or Molecular Interaction.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The mechanism of action of gabapentin involves Tobacco interaction.",
+                "The mechanism of action of gabapentin involves Pharmacokinetic interaction.",
+                "The mechanism of action of gabapentin involves Potentiating drug interaction."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Vaccines",
+            "predicate": "related to",
+            "object": "Childhood Vaccines"
+        },
+        "semantic_type": [
+            "Amino Acid, Peptide, or Protein",
+            "Pharmacologic Substance",
+            "Immunologic Factor"
+        ],
+        "pos_qa": {
+            "statement": "The Childhood Vaccines is related to Vaccines.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The acetaminophen / diclofenac is related to Vaccines.",
+                "The Etoprindole is related to Vaccines.",
+                "The Anti-Inflammatory Agents, Non-Steroidal is related to Vaccines."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by nutritional substance via breast milk"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Neonatal disorder caused by nutritional substance via breast milk is caused by the Maternal breastfeeding.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Mycoplasma Infections is caused by the Maternal breastfeeding.",
+                "The Dysentery is caused by the Maternal breastfeeding.",
+                "The ENDO/METAB PROBLEM is caused by the Maternal breastfeeding."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Aorta",
+            "predicate": "is associated anatomic site of",
+            "object": "Malignant Aortic Neoplasm"
+        },
+        "semantic_type": [
+            "Neoplastic Process"
+        ],
+        "pos_qa": {
+            "statement": "The anatomic site Malignant Aortic Neoplasm is associated with the Aorta.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The anatomic site Ampulla of Vater Villous Adenoma is associated with the Aorta.",
+                "The anatomic site Metastatic Papillary Renal Cell Carcinoma is associated with the Aorta.",
+                "The anatomic site Microfollicular adenoma is associated with the Aorta."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Autoimmune Diseases",
+            "predicate": "related to",
+            "object": "Immune System and Disorders"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Immune System and Disorders is related to Autoimmune Diseases.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Disease digestive system other is related to Autoimmune Diseases.",
+                "The GROWTH HORMONE INSENSITIVITY SYNDROME WITH IMMUNE DYSREGULATION 1, AUTOSOMAL RECESSIVE is related to Autoimmune Diseases.",
+                "The Miller-McKusick-Malvaux-Syndrome (3M Syndrome) is related to Autoimmune Diseases."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Naproxen",
+            "predicate": "active ingredient of",
+            "object": "naproxen + esomeprazole"
+        },
+        "semantic_type": [
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The naproxen + esomeprazole contains the active ingredient Naproxen.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The chlorpheniramine polistirex contains the active ingredient Naproxen.",
+                "The chlorthalidone / hydralazine / oxprenolol contains the active ingredient Naproxen.",
+                "The acetaminophen / butalbital / caffeine / hydrocodone contains the active ingredient Naproxen."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "methyl salicylate"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The methyl salicylate may be used to treat Muscle Cramp.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The acetaminophen / dextromethorphan / pseudoephedrine / pyrilamine may be used to treat Muscle Cramp.",
+                "The Calcium W Vitamin D may be used to treat Muscle Cramp.",
+                "The Glucose only product in parenteral dose form may be used to treat Muscle Cramp."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine sulfate"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The quinine sulfate may be used to prevent Muscle Cramp.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Prednisolone caproate may be used to prevent Muscle Cramp.",
+                "The phenazopyridine / sulfamethoxazole / trimethoprim may be used to prevent Muscle Cramp.",
+                "The vecuronium bromide may be used to prevent Muscle Cramp."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Oesophageal reflux",
+            "predicate": "associated with",
+            "object": "Gastroesophageal reflux"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Gastroesophageal reflux is associated with Oesophageal reflux.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The ARTERIAL TORTUOSITY SYNDROME is associated with Oesophageal reflux.",
+                "The Post mixed vaccination encephalitis is associated with Oesophageal reflux.",
+                "The Dennis Fairhurst Moore syndrome is associated with Oesophageal reflux."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Proteus Infections"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Proteus Infections may be treated with fosfomycin.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Progressive Familial Heart Block, Type Ib may be treated with fosfomycin.",
+                "The Vascular occlusion may be treated with fosfomycin.",
+                "The Stomach Diverticulosis may be treated with fosfomycin."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Dicyclomine",
+            "predicate": "causative agent of",
+            "object": "Allergy to dicyclomine"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Allergy to dicyclomine is caused by the agent Dicyclomine.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Varicella Zoster Virus Infection is caused by the agent Dicyclomine.",
+                "The Cardiomyopathy, Familial Hypertrophic, 1 is caused by the agent Dicyclomine.",
+                "The Burning Mouth Syndrome is caused by the agent Dicyclomine."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "venlafaxine",
+            "predicate": "has mechanism of action",
+            "object": "Norepinephrine Uptake Inhibitors"
+        },
+        "semantic_type": [
+            "Molecular Function"
+        ],
+        "pos_qa": {
+            "statement": "The mechanism of action of venlafaxine involves Norepinephrine Uptake Inhibitors.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The mechanism of action of venlafaxine involves Iron Chelating Activity [MoA].",
+                "The mechanism of action of venlafaxine involves Drug therapeutic incompatibility.",
+                "The mechanism of action of venlafaxine involves Cholinergic Muscarinic Antagonists [MoA]."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Calcium",
+            "predicate": "has member",
+            "object": "calcium glucoheptonate"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The calcium glucoheptonate is a member of the group Calcium.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The cholecalciferol is a member of the group Calcium.",
+                "The Isoniazid- and pyridoxine- and sulfamethoxazole- and trimethoprim-containing product is a member of the group Calcium.",
+                "The Amlodis is a member of the group Calcium."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Dental practitioner NOS",
+            "predicate": "was a",
+            "object": "Dentist"
+        },
+        "semantic_type": [
+            "Professional or Occupational Group"
+        ],
+        "pos_qa": {
+            "statement": "The Dentist is a type of Dental practitioner NOS.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Neurologists is a type of Dental practitioner NOS.",
+                "The Endodontist is a type of Dental practitioner NOS.",
+                "The Surgeon is a type of Dental practitioner NOS."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Upper gastrointestinal endoscopy",
+            "predicate": "diagnoses",
+            "object": "Diagnosis for stomach"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Diagnosis for stomach is diagnosed by the procedure Upper gastrointestinal endoscopy.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Chronic cervicitis is diagnosed by the procedure Upper gastrointestinal endoscopy.",
+                "The Infection Problem is diagnosed by the procedure Upper gastrointestinal endoscopy.",
+                "The Dysplasia of extrahepatic bile ducts is diagnosed by the procedure Upper gastrointestinal endoscopy."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Viagra",
+            "predicate": "ingredient of",
+            "object": "Viagra Pill"
+        },
+        "semantic_type": [
+            "Clinical Drug"
+        ],
+        "pos_qa": {
+            "statement": "The Viagra Pill contains the ingredient Viagra.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The tenofovir disoproxil fumarate 300 MG Oral Tablet contains the ingredient Viagra.",
+                "The Isoniazid- and pyridoxine- and sulfamethoxazole- and trimethoprim-containing product in oral dose form contains the ingredient Viagra.",
+                "The ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray contains the ingredient Viagra."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Liver",
+            "predicate": "is associated anatomic site of",
+            "object": "Liver Cavernous Hemangioma"
+        },
+        "semantic_type": [
+            "Neoplastic Process"
+        ],
+        "pos_qa": {
+            "statement": "The anatomic site Liver Cavernous Hemangioma is associated with the Liver.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The anatomic site Hydatidiform mole, benign is associated with the Liver.",
+                "The anatomic site Invasive intraductal papillary-mucinous carcinoma of pancreas is associated with the Liver.",
+                "The anatomic site Cancer Relapse is associated with the Liver."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Nerve conduction study",
+            "predicate": "is interpreted by",
+            "object": "Repetitive discharge on single stimulus"
+        },
+        "semantic_type": [
+            "Finding"
+        ],
+        "pos_qa": {
+            "statement": "The Repetitive discharge on single stimulus is interpreted by the Nerve conduction study.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The x-ray of ankle: soft tissue swelling of tibiotalar talar dome is interpreted by the Nerve conduction study.",
+                "The Malignant hyperthermia susceptibility type 1 is interpreted by the Nerve conduction study.",
+                "The General problem AND/OR complaint is interpreted by the Nerve conduction study."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "loperamide",
+            "predicate": "has therapeutic class",
+            "object": "Antidiarrheal Agent"
+        },
+        "semantic_type": [
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The Antidiarrheal Agent is the therapeutic class of loperamide.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The ethylestrenol is the therapeutic class of loperamide.",
+                "The hyperglycemic agent is the therapeutic class of loperamide.",
+                "The elvitegravir is the therapeutic class of loperamide."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Surgical Procedure",
+            "predicate": "has pcdc os authorized value",
+            "object": "Not Reported"
+        },
+        "semantic_type": [
+            "Idea or Concept"
+        ],
+        "pos_qa": {
+            "statement": "The value Not Reported is authorized for the Surgical Procedure in the context of pcdc os.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The value Multiple Causation is authorized for the Surgical Procedure in the context of pcdc os.",
+                "The value Role status - cancelled is authorized for the Surgical Procedure in the context of pcdc os.",
+                "The value Concomitant Agent is authorized for the Surgical Procedure in the context of pcdc os."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "may treat",
+            "object": "Escherichia coli Infections"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Escherichia coli Infections may be treated with ciprofloxacin.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Chronic granulomatous disease may be treated with ciprofloxacin.",
+                "The NEPHRONOPHTHISIS 2 may be treated with ciprofloxacin.",
+                "The Idiopathic aortitis may be treated with ciprofloxacin."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Atenolol",
+            "predicate": "active ingredient of",
+            "object": "atenolol + amiloride + hydrochlorothiazide"
+        },
+        "semantic_type": [
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The atenolol + amiloride + hydrochlorothiazide contains the active ingredient Atenolol.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The CJX1, amlodipine derivative contains the active ingredient Atenolol.",
+                "The calcium dihydrogen phosphate contains the active ingredient Atenolol.",
+                "The Amlodis contains the active ingredient Atenolol."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "codeine hydrochloride"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The codeine hydrochloride is a contraindicated drug for the Respiratory Depression.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The dicyclomine, doxylamine, pyridoxine drug combination is a contraindicated drug for the Respiratory Depression.",
+                "The Glucocorticoids is a contraindicated drug for the Respiratory Depression.",
+                "The Product manufactured as parenteral dose form is a contraindicated drug for the Respiratory Depression."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese gluconate"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The manganese gluconate has a physiologic effect of Increased Cholesterol Synthesis.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The morphine sulfate has a physiologic effect of Increased Cholesterol Synthesis.",
+                "The Tetracycline Antibiotics has a physiologic effect of Increased Cholesterol Synthesis.",
+                "The dabigatran etexilate mesylate has a physiologic effect of Increased Cholesterol Synthesis."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Deep Vein Thrombosis",
+            "predicate": "has contraindicated drug",
+            "object": "estetrol"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance",
+            "Hormone"
+        ],
+        "pos_qa": {
+            "statement": "The estetrol is a contraindicated drug for the Deep Vein Thrombosis.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The erythromycin stinoprate is a contraindicated drug for the Deep Vein Thrombosis.",
+                "The codeine hydrochloride is a contraindicated drug for the Deep Vein Thrombosis.",
+                "The Microbicides is a contraindicated drug for the Deep Vein Thrombosis."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Oxidative Stress",
+            "predicate": "biological process has result biological process",
+            "object": "Detoxification"
+        },
+        "semantic_type": [
+            "Therapeutic or Preventive Procedure"
+        ],
+        "pos_qa": {
+            "statement": "The biological process Detoxification is a result of the biological process Oxidative Stress.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The biological process Operative ablation of supraventricular arrhythmogenic focus or pathway (eg, Wolff-Parkinson-White, atrioventricular node re-entry), tract(s) and/or focus (foci); with cardiopulmonary bypass is a result of the biological process Oxidative Stress.",
+                "The biological process intravenous infusion of intravenous dextrose is a result of the biological process Oxidative Stress.",
+                "The biological process Ablation operation for arrhythmia by diathermy is a result of the biological process Oxidative Stress."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "desferrioxamine",
+            "predicate": "use",
+            "object": "deferoxamine"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Biologically Active Substance",
+            "Indicator, Reagent, or Diagnostic Aid"
+        ],
+        "pos_qa": {
+            "statement": "The deferoxamine is used in the context of desferrioxamine.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The desoximetasone is used in the context of desferrioxamine.",
+                "The dicyclomine hydrochloride is used in the context of desferrioxamine.",
+                "The morphine sulfate is used in the context of desferrioxamine."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Otitis Media",
+            "predicate": "may be treated by",
+            "object": "sulfadiazine sodium"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The sulfadiazine sodium may be used to treat Otitis Media.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The ethylestrenol may be used to treat Otitis Media.",
+                "The quinine sulfate may be used to treat Otitis Media.",
+                "The betamethasone may be used to treat Otitis Media."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Lipitor",
+            "predicate": "ingredient of",
+            "object": "Lipitor Oral Product"
+        },
+        "semantic_type": [
+            "Clinical Drug"
+        ],
+        "pos_qa": {
+            "statement": "The Lipitor Oral Product contains the ingredient Lipitor.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The calcium carbonate 1250 MG / cholecalciferol 600 UNT Oral Tablet contains the ingredient Lipitor.",
+                "The 84 HR oxybutynin 0.162 MG/HR Transdermal System contains the ingredient Lipitor.",
+                "The 168 HR estradiol 0.00208 MG/HR Transdermal System contains the ingredient Lipitor."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Active immunization",
+            "predicate": "focus of",
+            "object": "Rubella status education"
+        },
+        "semantic_type": [
+            "Therapeutic or Preventive Procedure"
+        ],
+        "pos_qa": {
+            "statement": "The Rubella status education is the focus of the Active immunization.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Anesthesia for repair of arteriovenous fistula is the focus of the Active immunization.",
+                "The Measurement of Cardiac Action Currents, Via Natural or Artificial Opening is the focus of the Active immunization.",
+                "The Procedures relating to splintage and immobilization is the focus of the Active immunization."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Nerve injury",
+            "predicate": "occurs before",
+            "object": "Disorder due to and following injury to nerve"
+        },
+        "semantic_type": [
+            "Pathologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The Disorder due to and following injury to nerve occurs after the Nerve injury.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Unspecified right bundle-branch block occurs after the Nerve injury.",
+                "The Suppuration occurs after the Nerve injury.",
+                "The Pulmonary Embolism occurs after the Nerve injury."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Indication of",
+            "predicate": "possibly equivalent to",
+            "object": "Indication for"
+        },
+        "semantic_type": [
+            "Idea or Concept"
+        ],
+        "pos_qa": {
+            "statement": "The condition Indication for is possibly equivalent to Indication of.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The condition Disease Reservoirs is possibly equivalent to Indication of.",
+                "The condition Not Reported is possibly equivalent to Indication of.",
+                "The condition Risk is possibly equivalent to Indication of."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Chronic cervicitis",
+            "predicate": "has associated morphology",
+            "object": "Chronic inflammatory morphology"
+        },
+        "semantic_type": [
+            "Pathologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The morphology Chronic inflammatory morphology is associated with the condition Chronic cervicitis.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The morphology Thrombosis is associated with the condition Chronic cervicitis.",
+                "The morphology Shock, Hemorrhagic is associated with the condition Chronic cervicitis.",
+                "The morphology INFECTIOUS PROCESS is associated with the condition Chronic cervicitis."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Congenital diaphragmatic hernia",
+            "predicate": "focus of",
+            "object": "Fetal endoscopic tracheal occlusion for congenital diaphragmatic hernia"
+        },
+        "semantic_type": [
+            "Therapeutic or Preventive Procedure"
+        ],
+        "pos_qa": {
+            "statement": "The Fetal endoscopic tracheal occlusion for congenital diaphragmatic hernia is the focus of the Congenital diaphragmatic hernia.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Neurotoxicity Attenuation is the focus of the Congenital diaphragmatic hernia.",
+                "The Anti-thymocyte globulin/Cyclophosphamide/Fludarabine/methylprednisolone is the focus of the Congenital diaphragmatic hernia.",
+                "The Syringing ear to remove wax is the focus of the Congenital diaphragmatic hernia."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "CAM Exercise Therapy",
+            "predicate": "concept in subset",
+            "object": "CTRP Terminology"
+        },
+        "semantic_type": [
+            "Intellectual Product"
+        ],
+        "pos_qa": {
+            "statement": "The CTRP Terminology is a concept in the subset of CAM Exercise Therapy.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The CPTAC Terminology is a concept in the subset of CAM Exercise Therapy.",
+                "The NCPDP Terminology is a concept in the subset of CAM Exercise Therapy.",
+                "The Upper gastrointestinal tract endoscopy report is a concept in the subset of CAM Exercise Therapy."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Consultation",
+            "predicate": "possibly equivalent to",
+            "object": "Medical consultation with outpatient"
+        },
+        "semantic_type": [
+            "Health Care Activity"
+        ],
+        "pos_qa": {
+            "statement": "The condition Medical consultation with outpatient is possibly equivalent to Consultation.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The condition Tapering - action is possibly equivalent to Consultation.",
+                "The condition identification and screening is possibly equivalent to Consultation.",
+                "The condition Nutritional Intervention is possibly equivalent to Consultation."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "HYPERGLYCEMIA"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The HYPERGLYCEMIA is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Methylmalonic aciduria cblB type is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT.",
+                "The CHROMOSOME 17q12 DELETION SYNDROME is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT.",
+                "The Hereditary fibrosing poikiloderma, tendon contractures, myopathy, pulmonary fibrosis syndrome is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Fibromyalgia",
+            "predicate": "replaced by",
+            "object": "Fibromyositis"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Fibromyositis can replace the Fibromyalgia.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Granulomatosis with polyangiitis can replace the Fibromyalgia.",
+                "The HEMOCHROMATOSIS, TYPE 1 can replace the Fibromyalgia.",
+                "The Streptococcus infection of the central nervous system can replace the Fibromyalgia."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Peripheral Neuropathy",
+            "predicate": "concept in subset",
+            "object": "Pediatric Rheumatology Terminology"
+        },
+        "semantic_type": [
+            "Intellectual Product"
+        ],
+        "pos_qa": {
+            "statement": "The Pediatric Rheumatology Terminology is a concept in the subset of Peripheral Neuropathy.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Descriptors is a concept in the subset of Peripheral Neuropathy.",
+                "The Extension Namespace 1000000 is a concept in the subset of Peripheral Neuropathy.",
+                "The screening and diagnostic method is a concept in the subset of Peripheral Neuropathy."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "DIARRHEA CHRONIC",
+            "predicate": "clinically associated with",
+            "object": "VOLUME DEPLETION INTRAVASCULAR"
+        },
+        "semantic_type": [
+            "Finding"
+        ],
+        "pos_qa": {
+            "statement": "The VOLUME DEPLETION INTRAVASCULAR is clinically associated with DIARRHEA CHRONIC.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Genetic carrier of other disease is clinically associated with DIARRHEA CHRONIC.",
+                "The Unable to achieve target heart rate is clinically associated with DIARRHEA CHRONIC.",
+                "The irregular heart rhythm is clinically associated with DIARRHEA CHRONIC."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "atresia del conducto nasolagrimal",
+            "predicate": "has finding site",
+            "object": "estructura de conducto nasolagrimal"
+        },
+        "semantic_type": [
+            "Body Part, Organ, or Organ Component"
+        ],
+        "pos_qa": {
+            "statement": "The estructura de conducto nasolagrimal is in the finding site of the atresia del conducto nasolagrimal.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Eye is in the finding site of the atresia del conducto nasolagrimal.",
+                "The Ribs, sternum, clavicles, and scapulae is in the finding site of the atresia del conducto nasolagrimal.",
+                "The Structure of valve of Heister is in the finding site of the atresia del conducto nasolagrimal."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "hydralazine",
+            "predicate": "has mechanism of action",
+            "object": "Unknown Cellular or Molecular Interaction"
+        },
+        "semantic_type": [
+            "Molecular Function"
+        ],
+        "pos_qa": {
+            "statement": "The mechanism of action of hydralazine involves Unknown Cellular or Molecular Interaction.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The mechanism of action of hydralazine involves Drug Synergism.",
+                "The mechanism of action of hydralazine involves Norepinephrine Uptake Inhibitors [MoA].",
+                "The mechanism of action of hydralazine involves Pharmacokinetic interaction."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Drug interaction with drug",
+            "predicate": "focus of",
+            "object": "Medication interaction with medication education"
+        },
+        "semantic_type": [
+            "Health Care Activity"
+        ],
+        "pos_qa": {
+            "statement": "The Medication interaction with medication education is the focus of the Drug interaction with drug.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The procedure stopped by patient is the focus of the Drug interaction with drug.",
+                "The Consultation, extensive is the focus of the Drug interaction with drug.",
+                "The self-help group for neurological disorder (treatment) is the focus of the Drug interaction with drug."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Burning Mouth Syndromes",
+            "predicate": "permuted term of",
+            "object": "Burning Mouth Syndrome"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The term Burning Mouth Syndrome is a permuted term of Burning Mouth Syndromes.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The term Trisomy 13 - mitotic nondisjunction mosaicism is a permuted term of Burning Mouth Syndromes.",
+                "The term Pruritus due to systemic disorder is a permuted term of Burning Mouth Syndromes.",
+                "The term Endotoxemia is a permuted term of Burning Mouth Syndromes."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Immediate Release Dosage Form",
+            "predicate": "concept in subset",
+            "object": "NCPDP Terminology"
+        },
+        "semantic_type": [
+            "Intellectual Product"
+        ],
+        "pos_qa": {
+            "statement": "The NCPDP Terminology is a concept in the subset of Immediate Release Dosage Form.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Global Rating of Change in Joint Pain and Stiffness Questionnaire is a concept in the subset of Immediate Release Dosage Form.",
+                "The CPTAC Codelists Terminology is a concept in the subset of Immediate Release Dosage Form.",
+                "The CTRP Intervention Terminology is a concept in the subset of Immediate Release Dosage Form."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Oppositional defiant disorder",
+            "predicate": "occurs in",
+            "object": "Childhood"
+        },
+        "semantic_type": [
+            "Temporal Concept"
+        ],
+        "pos_qa": {
+            "statement": "The condition Oppositional defiant disorder occurs in the period of Childhood.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The condition Oppositional defiant disorder occurs in the period of Intermittent.",
+                "The condition Oppositional defiant disorder occurs in the period of Perinatal period.",
+                "The condition Oppositional defiant disorder occurs in the period of Photoperiod."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "activated charcoal",
+            "predicate": "may treat",
+            "object": "Drug Overdose"
+        },
+        "semantic_type": [
+            "Injury or Poisoning"
+        ],
+        "pos_qa": {
+            "statement": "The Drug Overdose may be treated with activated charcoal.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Adverse effects, not elsewhere classified may be treated with activated charcoal.",
+                "The contaminated or infected blood, fluid, drug may be treated with activated charcoal.",
+                "The Open wound of auditory canal without complication may be treated with activated charcoal."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "pediatrician",
+            "predicate": "use",
+            "object": "child health care personnel"
+        },
+        "semantic_type": [
+            "Professional or Occupational Group"
+        ],
+        "pos_qa": {
+            "statement": "The child health care personnel is used in the context of pediatrician.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Neuropsychiatrist is used in the context of pediatrician.",
+                "The Otologists is used in the context of pediatrician.",
+                "The Oral and Maxillofacial Surgeons is used in the context of pediatrician."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Extended Release Suspension Dosage Form",
+            "predicate": "concept in subset",
+            "object": "Clinical Data Interchange Standards Consortium Terminology"
+        },
+        "semantic_type": [
+            "Intellectual Product"
+        ],
+        "pos_qa": {
+            "statement": "The Clinical Data Interchange Standards Consortium Terminology is a concept in the subset of Extended Release Suspension Dosage Form.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The CDISC Root Variable Terminology is a concept in the subset of Extended Release Suspension Dosage Form.",
+                "The Medications is a concept in the subset of Extended Release Suspension Dosage Form.",
+                "The Clinical Data Interchange Standards Consortium Terminology is a concept in the subset of Extended Release Suspension Dosage Form."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Corticosteroid",
+            "predicate": "parent of",
+            "object": "mometasone"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The mometasone is a derivative of the Corticosteroid.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The biapenem is a derivative of the Corticosteroid.",
+                "The Quinoctal is a derivative of the Corticosteroid.",
+                "The proglumetacin maleate is a derivative of the Corticosteroid."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "simvastatin",
+            "predicate": "may prevent",
+            "object": "Coronary Artery Disease"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Coronary Artery Disease may be prevented by simvastatin.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The HYDATIDIFORM MOLE, RECURRENT, 2 may be prevented by simvastatin.",
+                "The Weismann Netter syndrome may be prevented by simvastatin.",
+                "The Varicella zoster may be prevented by simvastatin."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Atresia of nasolacrimal duct",
+            "predicate": "has finding site",
+            "object": "Nasolacrimal duct structure"
+        },
+        "semantic_type": [
+            "Body Part, Organ, or Organ Component"
+        ],
+        "pos_qa": {
+            "statement": "The Nasolacrimal duct structure is in the finding site of the Atresia of nasolacrimal duct.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Body of vertebra is in the finding site of the Atresia of nasolacrimal duct.",
+                "The Kidney is in the finding site of the Atresia of nasolacrimal duct.",
+                "The Intervertebral disc structure is in the finding site of the Atresia of nasolacrimal duct."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Blind loop syndrome",
+            "predicate": "has expanded form",
+            "object": "blind loop syndrome"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The expanded form of Blind loop syndrome is blind loop syndrome.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The expanded form of Blind loop syndrome is GRISCELLI SYNDROME, TYPE 1.",
+                "The expanded form of Blind loop syndrome is Movement Disorders.",
+                "The expanded form of Blind loop syndrome is Histiocytic Dermatoarthritis."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder due to maternal exposure to environmental chemical via breast milk"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Neonatal disorder due to maternal exposure to environmental chemical via breast milk is caused by the Maternal breastfeeding.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Primary antiphospholipid syndrome with multisystem involvement is caused by the Maternal breastfeeding.",
+                "The Tremor, Hereditary Essential, And Idiopathic Normal Pressure Hydrocephalus is caused by the Maternal breastfeeding.",
+                "The ANGIOEDEMA, HEREDITARY, 8 is caused by the Maternal breastfeeding."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Citrobacter freundii",
+            "predicate": "causative agent of",
+            "object": "Citrobacter fruendii infection"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Citrobacter fruendii infection is caused by the agent Citrobacter freundii.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Mange is caused by the agent Citrobacter freundii.",
+                "The Neonatal hyperbilirubinemia caused by substance transmitted from mother is caused by the agent Citrobacter freundii.",
+                "The Virus Diseases is caused by the agent Citrobacter freundii."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Liver structure",
+            "predicate": "direct procedure site of",
+            "object": "Laparoscopic radiofrequency ablation of neoplasm of liver"
+        },
+        "semantic_type": [
+            "Therapeutic or Preventive Procedure"
+        ],
+        "pos_qa": {
+            "statement": "The Laparoscopic radiofrequency ablation of neoplasm of liver is the direct procedure site of the Liver structure.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Therapeutic Occlusion is the direct procedure site of the Liver structure.",
+                "The home care visit pain management subcutaneous injection of analgesic is the direct procedure site of the Liver structure.",
+                "The Trigger Point Acupuncture is the direct procedure site of the Liver structure."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "magnesium",
+            "predicate": "ingredient of",
+            "object": "multivitamin with minerals Calcium and Magnesium oral tablet"
+        },
+        "semantic_type": [
+            "Clinical Drug"
+        ],
+        "pos_qa": {
+            "statement": "The multivitamin with minerals Calcium and Magnesium oral tablet contains the ingredient magnesium.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The oxybutynin chloride 1 MG/ML Oral Solution contains the ingredient magnesium.",
+                "The amiloride / atenolol / hydrochlorothiazide Pill contains the ingredient magnesium.",
+                "The zolpidem tartrate 12.5 MG [Ambien] contains the ingredient magnesium."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Thromboembolism",
+            "predicate": "may be prevented by",
+            "object": "edoxaban"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The edoxaban may be used to prevent Thromboembolism.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The fusidate may be used to prevent Thromboembolism.",
+                "The acetaminophen / tolperisone may be used to prevent Thromboembolism.",
+                "The progesterone may be used to prevent Thromboembolism."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine dihydrochloride"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The quinine dihydrochloride may be used to prevent Muscle Cramp.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Effexor may be used to prevent Muscle Cramp.",
+                "The Urobilinogen may be used to prevent Muscle Cramp.",
+                "The altretamine may be used to prevent Muscle Cramp."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Narrowing",
+            "predicate": "associated morphology of",
+            "object": "Toxic bronchiolitis obliterans"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The morphology of Toxic bronchiolitis obliterans is associated with Narrowing.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The morphology of HYDATIDIFORM MOLE, RECURRENT, 3 is associated with Narrowing.",
+                "The morphology of May-Thurner Syndrome is associated with Narrowing.",
+                "The morphology of Pallister-Killian syndrome is associated with Narrowing."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Gastrointestinal tract structure",
+            "predicate": "direct procedure site of",
+            "object": "Fluoroscopy of barium small bowel meal and follow through"
+        },
+        "semantic_type": [
+            "Diagnostic Procedure"
+        ],
+        "pos_qa": {
+            "statement": "The Fluoroscopy of barium small bowel meal and follow through is the direct procedure site of the Gastrointestinal tract structure.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Diagnostic Techniques and Procedures is the direct procedure site of the Gastrointestinal tract structure.",
+                "The Dietary intake assessment is the direct procedure site of the Gastrointestinal tract structure.",
+                "The diagnostic procedure is the direct procedure site of the Gastrointestinal tract structure."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Active but odd autism",
+            "predicate": "has pathological process",
+            "object": "Pathological developmental process"
+        },
+        "semantic_type": [
+            "Pathologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The Pathological developmental process is a pathological process associated with the Active but odd autism.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Drug Interactions is a pathological process associated with the Active but odd autism.",
+                "The Physiological Stress is a pathological process associated with the Active but odd autism.",
+                "The Drug Allergy is a pathological process associated with the Active but odd autism."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "herpes zoster",
+            "predicate": "use",
+            "object": "shingles"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The shingles is used in the context of herpes zoster.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The HEMOCHROMATOSIS, TYPE 2A is used in the context of herpes zoster.",
+                "The Osteogenesis Imperfecta is used in the context of herpes zoster.",
+                "The Autosomal dominant Charcot-Marie-Tooth disease type 2V is used in the context of herpes zoster."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Gallbladder Pyloric Gland Adenoma"
+        },
+        "semantic_type": [
+            "Neoplastic Process"
+        ],
+        "pos_qa": {
+            "statement": "The Gallbladder Pyloric Gland Adenoma may be a finding of the Mass.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Colonic Neoplasms may be a finding of the Mass.",
+                "The Rectal Serrated Lesions and Polyps may be a finding of the Mass.",
+                "The Stage IIB Colorectal Cancer AJCC v7 may be a finding of the Mass."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Contraindicated",
+            "predicate": "procedure context of",
+            "object": "Surgery contraindicated"
+        },
+        "semantic_type": [
+            "Finding"
+        ],
+        "pos_qa": {
+            "statement": "The Surgery contraindicated is in the procedure context of Contraindicated.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The intestinal; infection, contact is in the procedure context of Contraindicated.",
+                "The fixed mass of right lacrimal sac is in the procedure context of Contraindicated.",
+                "The Increased interpersonal communication is in the procedure context of Contraindicated."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "isradipino"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The disposition of isradipino is related to the bloqueador del canal de calcio.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The disposition of propiram fumarate (1:1) is related to the bloqueador del canal de calcio.",
+                "The disposition of Prolamine is related to the bloqueador del canal de calcio.",
+                "The disposition of hydromorphone hydrochloride is related to the bloqueador del canal de calcio."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Immune Systems",
+            "predicate": "permuted term of",
+            "object": "Immune System"
+        },
+        "semantic_type": [
+            "Body System"
+        ],
+        "pos_qa": {
+            "statement": "The term Immune System is a permuted term of Immune Systems.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The term Gastrointestinal tract structure is a permuted term of Immune Systems.",
+                "The term Blood, Heart and Circulation is a permuted term of Immune Systems.",
+                "The term Hemic and Immune Systems is a permuted term of Immune Systems."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Levamlodipine besylate"
+        },
+        "semantic_type": [
+            "Organic Chemical",
+            "Pharmacologic Substance"
+        ],
+        "pos_qa": {
+            "statement": "The disposition of Levamlodipine besylate is related to the Calcium channel blocker.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The disposition of Vitamin D2 Analog is related to the Calcium channel blocker.",
+                "The disposition of Adrenergic beta-Antagonists is related to the Calcium channel blocker.",
+                "The disposition of dexchlorpheniramine maleate is related to the Calcium channel blocker."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "communicable disease transmission",
+            "predicate": "used for",
+            "object": "infectious disease transmission"
+        },
+        "semantic_type": [
+            "Pathologic Function"
+        ],
+        "pos_qa": {
+            "statement": "The infectious disease transmission is used for communicable disease transmission.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Dependent edema is used for communicable disease transmission.",
+                "The Adverse drug interaction is used for communicable disease transmission.",
+                "The Vertical Disease Transmission is used for communicable disease transmission."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "rhinovirus",
+            "predicate": "used for",
+            "object": "common cold virus"
+        },
+        "semantic_type": [
+            "Virus"
+        ],
+        "pos_qa": {
+            "statement": "The common cold virus is used for rhinovirus.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Prospect Hill hantavirus is used for rhinovirus.",
+                "The Orf virus is used for rhinovirus.",
+                "The Oncornaviruses is used for rhinovirus."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "FEVER",
+            "predicate": "clinically associated with",
+            "object": "HIV INFECTION"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The HIV INFECTION is clinically associated with FEVER.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The drug-induced erectile dysfunction is clinically associated with FEVER.",
+                "The Cronkhite-Canada Syndrome is clinically associated with FEVER.",
+                "The ARTERIAL TORTUOSITY SYNDROME is clinically associated with FEVER."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "ENDOCARDITIS",
+            "predicate": "clinically associated with",
+            "object": "CONGESTIVE HEART FAILURE"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The CONGESTIVE HEART FAILURE is clinically associated with ENDOCARDITIS.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Immune System Diseases is clinically associated with ENDOCARDITIS.",
+                "The chronic cystic cervicitis is clinically associated with ENDOCARDITIS.",
+                "The Varicosity is clinically associated with ENDOCARDITIS."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "CDISC SDTM Terminology"
+        },
+        "semantic_type": [
+            "Functional Concept"
+        ],
+        "pos_qa": {
+            "statement": "The CDISC SDTM Terminology is a concept in the subset of Dose.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Compressed structure is a concept in the subset of Dose.",
+                "The CDISC SDTM Terminology is a concept in the subset of Dose.",
+                "The Community Transmission is a concept in the subset of Dose."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "Gastrointestinal Tract",
+            "predicate": "is primary anatomic site of disease",
+            "object": "Extrahepatic Bile Duct Tubular Adenoma"
+        },
+        "semantic_type": [
+            "Neoplastic Process"
+        ],
+        "pos_qa": {
+            "statement": "The Extrahepatic Bile Duct Tubular Adenoma has the primary anatomic site in the Gastrointestinal Tract.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Benign neoplasm of colon has the primary anatomic site in the Gastrointestinal Tract.",
+                "The lymphoepithelial squamous cell carcinoma of scrotum has the primary anatomic site in the Gastrointestinal Tract.",
+                "The Smoldering Systemic Mastocytosis with an Associated Myeloid Neoplasm has the primary anatomic site in the Gastrointestinal Tract."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Escherichia coli Infections"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Escherichia coli Infections may be treated with fosfomycin.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis may be treated with fosfomycin.",
+                "The Endocarditis may be treated with fosfomycin.",
+                "The Hydranencephaly with Renal Aplasia-Dysplasia may be treated with fosfomycin."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "DISCHARGE PLANNING"
+        },
+        "semantic_type": [
+            "Health Care Activity"
+        ],
+        "pos_qa": {
+            "statement": "The DISCHARGE PLANNING is clinically associated with SEPSIS.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Simple 15 minutes consult is clinically associated with SEPSIS.",
+                "The Reproductive Health Services is clinically associated with SEPSIS.",
+                "The RNDx fall risk is clinically associated with SEPSIS."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "FEVER"
+        },
+        "semantic_type": [
+            "Sign or Symptom"
+        ],
+        "pos_qa": {
+            "statement": "The FEVER is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Myalgia is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT.",
+                "The foul-smelling scrotal lesion is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT.",
+                "The Urinary system symptoms NOS is clinically associated with DIABETES MELLITUS NON INSULIN DEPENDENT."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Gonorrhea"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Gonorrhea may be treated with oxytetracycline hydrochloride.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Malabsorption Syndrome may be treated with oxytetracycline hydrochloride.",
+                "The HYDATIDIFORM MOLE, RECURRENT, 3 may be treated with oxytetracycline hydrochloride.",
+                "The ZIMMERMANN-LABAND SYNDROME 2 may be treated with oxytetracycline hydrochloride."
+            ],
+            "answer": false
+        }
+    },
+    {
+        "original_triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Klebsiella Infections"
+        },
+        "semantic_type": [
+            "Disease or Syndrome"
+        ],
+        "pos_qa": {
+            "statement": "The Klebsiella Infections may be treated with fosfomycin.",
+            "answer": true
+        },
+        "neg_qa": {
+            "statement": [
+                "The Monosomy 7 of Bone Marrow may be treated with fosfomycin.",
+                "The SPERMATOGENIC FAILURE, X-LINKED, 2 may be treated with fosfomycin.",
+                "The Partial trisomy 13 in Patau's syndrome may be treated with fosfomycin."
+            ],
+            "answer": false
+        }
+    }
+]

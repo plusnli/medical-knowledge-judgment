@@ -1,0 +1,4658 @@
+[
+    {
+        "text": "Syphilis may be treated by erythromycin",
+        "triplet": {
+            "subject": "Syphilis",
+            "predicate": "may be treated by",
+            "object": "erythromycin"
+        }
+    },
+    {
+        "text": "Jarisch Herxheimer reaction has pathological process Allergic process",
+        "triplet": {
+            "subject": "Jarisch Herxheimer reaction",
+            "predicate": "has pathological process",
+            "object": "Allergic process"
+        }
+    },
+    {
+        "text": "anesthesia used for electronarcosis",
+        "triplet": {
+            "subject": "anesthesia",
+            "predicate": "used for",
+            "object": "electronarcosis"
+        }
+    },
+    {
+        "text": "Fragile X associated tremor ataxia syndrome has finding site Cerebellar structure",
+        "triplet": {
+            "subject": "Fragile X associated tremor ataxia syndrome",
+            "predicate": "has finding site",
+            "object": "Cerebellar structure"
+        }
+    },
+    {
+        "text": "Fragile X associated tremor ataxia syndrome has associated morphology Degenerative abnormality",
+        "triplet": {
+            "subject": "Fragile X associated tremor ataxia syndrome",
+            "predicate": "has associated morphology",
+            "object": "Degenerative abnormality"
+        }
+    },
+    {
+        "text": "Deep Vein Thrombosis has contraindicated drug estetrol",
+        "triplet": {
+            "subject": "Deep Vein Thrombosis",
+            "predicate": "has contraindicated drug",
+            "object": "estetrol"
+        }
+    },
+    {
+        "text": "DEEP VENOUS THROMBOSIS clinically associated with HEPARIN ANTEPARTUM",
+        "triplet": {
+            "subject": "DEEP VENOUS THROMBOSIS",
+            "predicate": "clinically associated with",
+            "object": "HEPARIN ANTEPARTUM"
+        }
+    },
+    {
+        "text": "Deep Vein Thrombosis may be prevented by dabigatran etexilate",
+        "triplet": {
+            "subject": "Deep Vein Thrombosis",
+            "predicate": "may be prevented by",
+            "object": "dabigatran etexilate"
+        }
+    },
+    {
+        "text": "DEEP VENOUS THROMBOSIS clinically associated with SUBDURAL HEMATOMA",
+        "triplet": {
+            "subject": "DEEP VENOUS THROMBOSIS",
+            "predicate": "clinically associated with",
+            "object": "SUBDURAL HEMATOMA"
+        }
+    },
+    {
+        "text": "Deep Vein Thrombosis may be prevented by dabigatran etexilate mesylate",
+        "triplet": {
+            "subject": "Deep Vein Thrombosis",
+            "predicate": "may be prevented by",
+            "object": "dabigatran etexilate mesylate"
+        }
+    },
+    {
+        "text": "Deep Vein Thrombosis may be treated by dabigatran etexilate",
+        "triplet": {
+            "subject": "Deep Vein Thrombosis",
+            "predicate": "may be treated by",
+            "object": "dabigatran etexilate"
+        }
+    },
+    {
+        "text": "Thromboembolism may be prevented by apixaban",
+        "triplet": {
+            "subject": "Thromboembolism",
+            "predicate": "may be prevented by",
+            "object": "apixaban"
+        }
+    },
+    {
+        "text": "Thromboembolism may be prevented by edoxaban",
+        "triplet": {
+            "subject": "Thromboembolism",
+            "predicate": "may be prevented by",
+            "object": "edoxaban"
+        }
+    },
+    {
+        "text": "Urinary Tract Infections may be treated by nafcillin sodium monohydrate",
+        "triplet": {
+            "subject": "Urinary Tract Infections",
+            "predicate": "may be treated by",
+            "object": "nafcillin sodium monohydrate"
+        }
+    },
+    {
+        "text": "nitrofurantoin may treat Escherichia coli Infections",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "may treat",
+            "object": "Escherichia coli Infections"
+        }
+    },
+    {
+        "text": "nitrofurantoin may treat Urinary Tract Infections",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "may treat",
+            "object": "Urinary Tract Infections"
+        }
+    },
+    {
+        "text": "nitrofurantoin may treat Bacterial Infections",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "may treat",
+            "object": "Bacterial Infections"
+        }
+    },
+    {
+        "text": "nitrofurantoin may prevent Urinary Tract Infections",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "may prevent",
+            "object": "Urinary Tract Infections"
+        }
+    },
+    {
+        "text": "nitrofurantoin may treat Staphylococcal Infections",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "may treat",
+            "object": "Staphylococcal Infections"
+        }
+    },
+    {
+        "text": "nitrofurantoin may prevent Bacterial Infections",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "may prevent",
+            "object": "Bacterial Infections"
+        }
+    },
+    {
+        "text": "nitrofurantoin contraindicated with disease Anuria",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "contraindicated with disease",
+            "object": "Anuria"
+        }
+    },
+    {
+        "text": "nitrofurantoin contraindicated with disease Oliguria",
+        "triplet": {
+            "subject": "nitrofurantoin",
+            "predicate": "contraindicated with disease",
+            "object": "Oliguria"
+        }
+    },
+    {
+        "text": "fosfomycin may treat Urinary Tract Infections",
+        "triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Urinary Tract Infections"
+        }
+    },
+    {
+        "text": "fosfomycin may treat Escherichia coli Infections",
+        "triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Escherichia coli Infections"
+        }
+    },
+    {
+        "text": "fosfomycin may treat Klebsiella Infections",
+        "triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Klebsiella Infections"
+        }
+    },
+    {
+        "text": "fosfomycin may treat Proteus Infections",
+        "triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Proteus Infections"
+        }
+    },
+    {
+        "text": "fosfomycin may treat Serratia Infections",
+        "triplet": {
+            "subject": "fosfomycin",
+            "predicate": "may treat",
+            "object": "Serratia Infections"
+        }
+    },
+    {
+        "text": "Streptococcal infectious disease has pathological process Infectious process",
+        "triplet": {
+            "subject": "Streptococcal infectious disease",
+            "predicate": "has pathological process",
+            "object": "Infectious process"
+        }
+    },
+    {
+        "text": "Streptococcal infectious disease cause of Erythema nodosum due to streptococcal infection",
+        "triplet": {
+            "subject": "Streptococcal infectious disease",
+            "predicate": "cause of",
+            "object": "Erythema nodosum due to streptococcal infection"
+        }
+    },
+    {
+        "text": "Systemic disease cause of Pruritus due to systemic disorder",
+        "triplet": {
+            "subject": "Systemic disease",
+            "predicate": "cause of",
+            "object": "Pruritus due to systemic disorder"
+        }
+    },
+    {
+        "text": "Systemic Disease may be finding of disease Histiocytic Sarcoma",
+        "triplet": {
+            "subject": "Systemic Disease",
+            "predicate": "may be finding of disease",
+            "object": "Histiocytic Sarcoma"
+        }
+    },
+    {
+        "text": "Systemic Disease is finding of disease Aggressive Systemic Mastocytosis with an Associated Germ Cell Tumor",
+        "triplet": {
+            "subject": "Systemic Disease",
+            "predicate": "is finding of disease",
+            "object": "Aggressive Systemic Mastocytosis with an Associated Germ Cell Tumor"
+        }
+    },
+    {
+        "text": "Systemic Disease is finding of disease Smoldering Systemic Mastocytosis with an Associated Myeloid Neoplasm",
+        "triplet": {
+            "subject": "Systemic Disease",
+            "predicate": "is finding of disease",
+            "object": "Smoldering Systemic Mastocytosis with an Associated Myeloid Neoplasm"
+        }
+    },
+    {
+        "text": "Systemic Disease is finding of disease Multicentric Reticulohistiocytosis",
+        "triplet": {
+            "subject": "Systemic Disease",
+            "predicate": "is finding of disease",
+            "object": "Multicentric Reticulohistiocytosis"
+        }
+    },
+    {
+        "text": "Systemic Disease is finding of disease Recurrent Malignant Mastocytosis",
+        "triplet": {
+            "subject": "Systemic Disease",
+            "predicate": "is finding of disease",
+            "object": "Recurrent Malignant Mastocytosis"
+        }
+    },
+    {
+        "text": "Systemic Disease is finding of disease Smoldering Systemic Mastocytosis",
+        "triplet": {
+            "subject": "Systemic Disease",
+            "predicate": "is finding of disease",
+            "object": "Smoldering Systemic Mastocytosis"
+        }
+    },
+    {
+        "text": "Granulomatosis with polyangiitis possibly equivalent to Wegener's granulomatosis",
+        "triplet": {
+            "subject": "Granulomatosis with polyangiitis",
+            "predicate": "possibly equivalent to",
+            "object": "Wegener's granulomatosis"
+        }
+    },
+    {
+        "text": "Autoimmune Diseases related to Immune System and Disorders",
+        "triplet": {
+            "subject": "Autoimmune Diseases",
+            "predicate": "related to",
+            "object": "Immune System and Disorders"
+        }
+    },
+    {
+        "text": "autoimmune disorder used for autoimmune rheumatologic disease",
+        "triplet": {
+            "subject": "autoimmune disorder",
+            "predicate": "used for",
+            "object": "autoimmune rheumatologic disease"
+        }
+    },
+    {
+        "text": "Infections may be prevented by pegfilgrastim",
+        "triplet": {
+            "subject": "Infections",
+            "predicate": "may be prevented by",
+            "object": "pegfilgrastim"
+        }
+    },
+    {
+        "text": "Infection has expected outcome Deteriorate",
+        "triplet": {
+            "subject": "Infection",
+            "predicate": "has expected outcome",
+            "object": "Deteriorate"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with FEVER",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "FEVER"
+        }
+    },
+    {
+        "text": "Level of Joint Pain concept in subset Global Rating of Change in Joint Pain and Stiffness Questionnaire",
+        "triplet": {
+            "subject": "Level of Joint Pain",
+            "predicate": "concept in subset",
+            "object": "Global Rating of Change in Joint Pain and Stiffness Questionnaire"
+        }
+    },
+    {
+        "text": "Exposure to second hand tobacco smoke cause of Toxic effect of secondary tobacco exposure",
+        "triplet": {
+            "subject": "Exposure to second hand tobacco smoke",
+            "predicate": "cause of",
+            "object": "Toxic effect of secondary tobacco exposure"
+        }
+    },
+    {
+        "text": "Exposure to second hand tobacco smoke associated finding of History of exposure to tobacco smoke in perinatal period",
+        "triplet": {
+            "subject": "Exposure to second hand tobacco smoke",
+            "predicate": "associated finding of",
+            "object": "History of exposure to tobacco smoke in perinatal period"
+        }
+    },
+    {
+        "text": "Exposure to second hand tobacco smoke realization of At increased risk from passive smoking",
+        "triplet": {
+            "subject": "Exposure to second hand tobacco smoke",
+            "predicate": "realization of",
+            "object": "At increased risk from passive smoking"
+        }
+    },
+    {
+        "text": "Oxidative Stress process involves gene APP wt Allele",
+        "triplet": {
+            "subject": "Oxidative Stress",
+            "predicate": "process involves gene",
+            "object": "APP wt Allele"
+        }
+    },
+    {
+        "text": "Oxidative Stress process involves gene CAT wt Allele",
+        "triplet": {
+            "subject": "Oxidative Stress",
+            "predicate": "process involves gene",
+            "object": "CAT wt Allele"
+        }
+    },
+    {
+        "text": "Oxidative Stress biological process involves gene product Catalase",
+        "triplet": {
+            "subject": "Oxidative Stress",
+            "predicate": "biological process involves gene product",
+            "object": "Catalase"
+        }
+    },
+    {
+        "text": "Oxidative Stress biological process has result biological process Detoxification",
+        "triplet": {
+            "subject": "Oxidative Stress",
+            "predicate": "biological process has result biological process",
+            "object": "Detoxification"
+        }
+    },
+    {
+        "text": "Fertilization process initiates biological process Quadruplet Pregnancy",
+        "triplet": {
+            "subject": "Fertilization",
+            "predicate": "process initiates biological process",
+            "object": "Quadruplet Pregnancy"
+        }
+    },
+    {
+        "text": "Fertilization process initiates biological process Teenage Pregnancy",
+        "triplet": {
+            "subject": "Fertilization",
+            "predicate": "process initiates biological process",
+            "object": "Teenage Pregnancy"
+        }
+    },
+    {
+        "text": "hydatidiform mole used for molar pregnancy",
+        "triplet": {
+            "subject": "hydatidiform mole",
+            "predicate": "used for",
+            "object": "molar pregnancy"
+        }
+    },
+    {
+        "text": "molar pregnancy use hydatidiform mole",
+        "triplet": {
+            "subject": "molar pregnancy",
+            "predicate": "use",
+            "object": "hydatidiform mole"
+        }
+    },
+    {
+        "text": "Gestational trophoblastic disease possibly equivalent to Molar pregnancy with hydatidiform mole",
+        "triplet": {
+            "subject": "Gestational trophoblastic disease",
+            "predicate": "possibly equivalent to",
+            "object": "Molar pregnancy with hydatidiform mole"
+        }
+    },
+    {
+        "text": "Arthritis associated finding of FH: Arthritis",
+        "triplet": {
+            "subject": "Arthritis",
+            "predicate": "associated finding of",
+            "object": "FH: Arthritis"
+        }
+    },
+    {
+        "text": "Arthritis may be associated disease of disease Heavy Chain Deposition Disease",
+        "triplet": {
+            "subject": "Arthritis",
+            "predicate": "may be associated disease of disease",
+            "object": "Heavy Chain Deposition Disease"
+        }
+    },
+    {
+        "text": "Peripheral Neuropathy concept in subset Pediatric Rheumatology Terminology",
+        "triplet": {
+            "subject": "Peripheral Neuropathy",
+            "predicate": "concept in subset",
+            "object": "Pediatric Rheumatology Terminology"
+        }
+    },
+    {
+        "text": "Peripheral Neuropathy disease has associated anatomic site Nervous System",
+        "triplet": {
+            "subject": "Peripheral Neuropathy",
+            "predicate": "disease has associated anatomic site",
+            "object": "Nervous System"
+        }
+    },
+    {
+        "text": "Nerve conduction study focus of EMG with nerve conduction study",
+        "triplet": {
+            "subject": "Nerve conduction study",
+            "predicate": "focus of",
+            "object": "EMG with nerve conduction study"
+        }
+    },
+    {
+        "text": "Nerve conduction study is interpreted by Repetitive discharge on single stimulus",
+        "triplet": {
+            "subject": "Nerve conduction study",
+            "predicate": "is interpreted by",
+            "object": "Repetitive discharge on single stimulus"
+        }
+    },
+    {
+        "text": "Fibromyalgia has finding site Muscle structure",
+        "triplet": {
+            "subject": "Fibromyalgia",
+            "predicate": "has finding site",
+            "object": "Muscle structure"
+        }
+    },
+    {
+        "text": "Genetic Testing for Cancer Risk concept in subset CPTAC Terminology",
+        "triplet": {
+            "subject": "Genetic Testing for Cancer Risk",
+            "predicate": "concept in subset",
+            "object": "CPTAC Terminology"
+        }
+    },
+    {
+        "text": "Burning mouth syndrome has finding site Mouth region structure",
+        "triplet": {
+            "subject": "Burning mouth syndrome",
+            "predicate": "has finding site",
+            "object": "Mouth region structure"
+        }
+    },
+    {
+        "text": "Burning Mouth Syndromes permuted term of Burning Mouth Syndrome",
+        "triplet": {
+            "subject": "Burning Mouth Syndromes",
+            "predicate": "permuted term of",
+            "object": "Burning Mouth Syndrome"
+        }
+    },
+    {
+        "text": "Neurologist permuted term of Neurologists",
+        "triplet": {
+            "subject": "Neurologist",
+            "predicate": "permuted term of",
+            "object": "Neurologists"
+        }
+    },
+    {
+        "text": "Dental practitioner NOS was a Dentist",
+        "triplet": {
+            "subject": "Dental practitioner NOS",
+            "predicate": "was a",
+            "object": "Dentist"
+        }
+    },
+    {
+        "text": "Hormone replacement therapy associated procedure of Hormonal replacement therapy stopped",
+        "triplet": {
+            "subject": "Hormone replacement therapy",
+            "predicate": "associated procedure of",
+            "object": "Hormonal replacement therapy stopped"
+        }
+    },
+    {
+        "text": "Menopause may be treated by estropipate",
+        "triplet": {
+            "subject": "Menopause",
+            "predicate": "may be treated by",
+            "object": "estropipate"
+        }
+    },
+    {
+        "text": "Removal of ear wax has direct substance Cerumen",
+        "triplet": {
+            "subject": "Removal of ear wax",
+            "predicate": "has direct substance",
+            "object": "Cerumen"
+        }
+    },
+    {
+        "text": "Removal of ear wax focus of Ear wax removal assessment",
+        "triplet": {
+            "subject": "Removal of ear wax",
+            "predicate": "focus of",
+            "object": "Ear wax removal assessment"
+        }
+    },
+    {
+        "text": "Removal of ear wax has indirect procedure site External auditory canal structure",
+        "triplet": {
+            "subject": "Removal of ear wax",
+            "predicate": "has indirect procedure site",
+            "object": "External auditory canal structure"
+        }
+    },
+    {
+        "text": "External auditory canal structure indirect procedure site of Removal of wax from external auditory canal using microsuction",
+        "triplet": {
+            "subject": "External auditory canal structure",
+            "predicate": "indirect procedure site of",
+            "object": "Removal of wax from external auditory canal using microsuction"
+        }
+    },
+    {
+        "text": "External auditory canal structure indirect procedure site of Manual removal of wax from external auditory canal",
+        "triplet": {
+            "subject": "External auditory canal structure",
+            "predicate": "indirect procedure site of",
+            "object": "Manual removal of wax from external auditory canal"
+        }
+    },
+    {
+        "text": "Sevoflurane active ingredient of Sevoflurane only product",
+        "triplet": {
+            "subject": "Sevoflurane",
+            "predicate": "active ingredient of",
+            "object": "Sevoflurane only product"
+        }
+    },
+    {
+        "text": "Effectiveness possibly equivalent to Effective",
+        "triplet": {
+            "subject": "Effectiveness",
+            "predicate": "possibly equivalent to",
+            "object": "Effective"
+        }
+    },
+    {
+        "text": "Efficacy concept in subset Clinical Data Interchange Standards Consortium Terminology",
+        "triplet": {
+            "subject": "Efficacy",
+            "predicate": "concept in subset",
+            "object": "Clinical Data Interchange Standards Consortium Terminology"
+        }
+    },
+    {
+        "text": "Efficacy concept in subset CDISC Glossary Terminology",
+        "triplet": {
+            "subject": "Efficacy",
+            "predicate": "concept in subset",
+            "object": "CDISC Glossary Terminology"
+        }
+    },
+    {
+        "text": "Product Container permuted term of Product Containers",
+        "triplet": {
+            "subject": "Product Container",
+            "predicate": "permuted term of",
+            "object": "Product Containers"
+        }
+    },
+    {
+        "text": "Oppositional defiant disorder occurs in Childhood",
+        "triplet": {
+            "subject": "Oppositional defiant disorder",
+            "predicate": "occurs in",
+            "object": "Childhood"
+        }
+    },
+    {
+        "text": "Active but odd autism has pathological process Pathological developmental process",
+        "triplet": {
+            "subject": "Active but odd autism",
+            "predicate": "has pathological process",
+            "object": "Pathological developmental process"
+        }
+    },
+    {
+        "text": "Blind loop syndrome has expanded form blind loop syndrome",
+        "triplet": {
+            "subject": "Blind loop syndrome",
+            "predicate": "has expanded form",
+            "object": "blind loop syndrome"
+        }
+    },
+    {
+        "text": "Blind loop syndrome has finding site Structure of small intestine",
+        "triplet": {
+            "subject": "Blind loop syndrome",
+            "predicate": "has finding site",
+            "object": "Structure of small intestine"
+        }
+    },
+    {
+        "text": "genomic imprinting replaces obsolete DNA methylation involved in gamete generation",
+        "triplet": {
+            "subject": "genomic imprinting",
+            "predicate": "replaces",
+            "object": "obsolete DNA methylation involved in gamete generation"
+        }
+    },
+    {
+        "text": "ciprofloxacin used for Ciprinol",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "used for",
+            "object": "Ciprinol"
+        }
+    },
+    {
+        "text": "ciprofloxacin may treat Haemophilus Infections",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "may treat",
+            "object": "Haemophilus Infections"
+        }
+    },
+    {
+        "text": "ciprofloxacin may treat Escherichia coli Infections",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "may treat",
+            "object": "Escherichia coli Infections"
+        }
+    },
+    {
+        "text": "ciprofloxacin has therapeutic class Antimicrobial Agent",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "has therapeutic class",
+            "object": "Antimicrobial Agent"
+        }
+    },
+    {
+        "text": "ciprofloxacin may treat Fever",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "may treat",
+            "object": "Fever"
+        }
+    },
+    {
+        "text": "ciprofloxacin may treat Intraabdominal Infections",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "may treat",
+            "object": "Intraabdominal Infections"
+        }
+    },
+    {
+        "text": "ciprofloxacin has tradename Ciloxan",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "has tradename",
+            "object": "Ciloxan"
+        }
+    },
+    {
+        "text": "ciprofloxacin may treat Dysentery",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "may treat",
+            "object": "Dysentery"
+        }
+    },
+    {
+        "text": "ciprofloxacin has physiologic effect Decreased Transcription to RNA",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "has physiologic effect",
+            "object": "Decreased Transcription to RNA"
+        }
+    },
+    {
+        "text": "ciprofloxacin has physiologic effect Decreased DNA Integrity",
+        "triplet": {
+            "subject": "ciprofloxacin",
+            "predicate": "has physiologic effect",
+            "object": "Decreased DNA Integrity"
+        }
+    },
+    {
+        "text": "Citrobacter freundii causative agent of Citrobacter fruendii infection",
+        "triplet": {
+            "subject": "Citrobacter freundii",
+            "predicate": "causative agent of",
+            "object": "Citrobacter fruendii infection"
+        }
+    },
+    {
+        "text": "Antibiotic Resistance related to Bacterial Infections",
+        "triplet": {
+            "subject": "Antibiotic Resistance",
+            "predicate": "related to",
+            "object": "Bacterial Infections"
+        }
+    },
+    {
+        "text": "antibiotic resistance use antibiotic",
+        "triplet": {
+            "subject": "antibiotic resistance",
+            "predicate": "use",
+            "object": "antibiotic"
+        }
+    },
+    {
+        "text": "pediatrician use physician",
+        "triplet": {
+            "subject": "pediatrician",
+            "predicate": "use",
+            "object": "physician"
+        }
+    },
+    {
+        "text": "Pediatrician permuted term of Pediatricians",
+        "triplet": {
+            "subject": "Pediatrician",
+            "predicate": "permuted term of",
+            "object": "Pediatricians"
+        }
+    },
+    {
+        "text": "pediatrician use child health care personnel",
+        "triplet": {
+            "subject": "pediatrician",
+            "predicate": "use",
+            "object": "child health care personnel"
+        }
+    },
+    {
+        "text": "Pediatric Neurologist concept in subset Clinical Data Interchange Standards Consortium Terminology",
+        "triplet": {
+            "subject": "Pediatric Neurologist",
+            "predicate": "concept in subset",
+            "object": "Clinical Data Interchange Standards Consortium Terminology"
+        }
+    },
+    {
+        "text": "Pediatric Neurologist concept in subset CDISC SDTM Terminology",
+        "triplet": {
+            "subject": "Pediatric Neurologist",
+            "predicate": "concept in subset",
+            "object": "CDISC SDTM Terminology"
+        }
+    },
+    {
+        "text": "Otitis Media may be treated by sulfadiazine sodium",
+        "triplet": {
+            "subject": "Otitis Media",
+            "predicate": "may be treated by",
+            "object": "sulfadiazine sodium"
+        }
+    },
+    {
+        "text": "OTITIS MEDIA clinically associated with EARACHE",
+        "triplet": {
+            "subject": "OTITIS MEDIA",
+            "predicate": "clinically associated with",
+            "object": "EARACHE"
+        }
+    },
+    {
+        "text": "Otitis Media may be treated by penicillin V potassium",
+        "triplet": {
+            "subject": "Otitis Media",
+            "predicate": "may be treated by",
+            "object": "penicillin V potassium"
+        }
+    },
+    {
+        "text": "Otitis Media may be treated by amoxicillin trihydrate",
+        "triplet": {
+            "subject": "Otitis Media",
+            "predicate": "may be treated by",
+            "object": "amoxicillin trihydrate"
+        }
+    },
+    {
+        "text": "Otitis Media may be treated by ceftriaxone",
+        "triplet": {
+            "subject": "Otitis Media",
+            "predicate": "may be treated by",
+            "object": "ceftriaxone"
+        }
+    },
+    {
+        "text": "antibiotic used for attacin",
+        "triplet": {
+            "subject": "antibiotic",
+            "predicate": "used for",
+            "object": "attacin"
+        }
+    },
+    {
+        "text": "Bloody discharge associated morphology of Blood discharge from ear",
+        "triplet": {
+            "subject": "Bloody discharge",
+            "predicate": "associated morphology of",
+            "object": "Blood discharge from ear"
+        }
+    },
+    {
+        "text": "Complication possibly equivalent to Adverse reaction",
+        "triplet": {
+            "subject": "Complication",
+            "predicate": "possibly equivalent to",
+            "object": "Adverse reaction"
+        }
+    },
+    {
+        "text": "carvedilol contraindicated with disease Drug Hypersensitivity",
+        "triplet": {
+            "subject": "carvedilol",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        }
+    },
+    {
+        "text": "hydralazine has mechanism of action Unknown Cellular or Molecular Interaction",
+        "triplet": {
+            "subject": "hydralazine",
+            "predicate": "has mechanism of action",
+            "object": "Unknown Cellular or Molecular Interaction"
+        }
+    },
+    {
+        "text": "hydralazine contraindicated with disease Coronary Artery Disease",
+        "triplet": {
+            "subject": "hydralazine",
+            "predicate": "contraindicated with disease",
+            "object": "Coronary Artery Disease"
+        }
+    },
+    {
+        "text": "phentermine used for duromine",
+        "triplet": {
+            "subject": "phentermine",
+            "predicate": "used for",
+            "object": "duromine"
+        }
+    },
+    {
+        "text": "phentermine has tradename Teramine",
+        "triplet": {
+            "subject": "phentermine",
+            "predicate": "has tradename",
+            "object": "Teramine"
+        }
+    },
+    {
+        "text": "phentermine has tradename Duromine",
+        "triplet": {
+            "subject": "phentermine",
+            "predicate": "has tradename",
+            "object": "Duromine"
+        }
+    },
+    {
+        "text": "phentermine contraindicated with disease Drug Abuse",
+        "triplet": {
+            "subject": "phentermine",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Abuse"
+        }
+    },
+    {
+        "text": "dicyclomine contraindicated with disease Drug Hypersensitivity",
+        "triplet": {
+            "subject": "dicyclomine",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        }
+    },
+    {
+        "text": "Dicyclomine has salt form Dicyclomine Hydrochloride",
+        "triplet": {
+            "subject": "Dicyclomine",
+            "predicate": "has salt form",
+            "object": "Dicyclomine Hydrochloride"
+        }
+    },
+    {
+        "text": "Dicyclomine causative agent of Allergy to dicyclomine",
+        "triplet": {
+            "subject": "Dicyclomine",
+            "predicate": "causative agent of",
+            "object": "Allergy to dicyclomine"
+        }
+    },
+    {
+        "text": "Dicyclomine has modification Dicyclomine hydrochloride",
+        "triplet": {
+            "subject": "Dicyclomine",
+            "predicate": "has modification",
+            "object": "Dicyclomine hydrochloride"
+        }
+    },
+    {
+        "text": "DEMENTIA clinically associated with INCONTINENCE NOS",
+        "triplet": {
+            "subject": "DEMENTIA",
+            "predicate": "clinically associated with",
+            "object": "INCONTINENCE NOS"
+        }
+    },
+    {
+        "text": "Genetic Predisposition to Disease has entry version GENET PREDISPOSITION DIS",
+        "triplet": {
+            "subject": "Genetic Predisposition to Disease",
+            "predicate": "has entry version",
+            "object": "GENET PREDISPOSITION DIS"
+        }
+    },
+    {
+        "text": "Genetic Predisposition has entry version GENET PREDISPOSITION",
+        "triplet": {
+            "subject": "Genetic Predisposition",
+            "predicate": "has entry version",
+            "object": "GENET PREDISPOSITION"
+        }
+    },
+    {
+        "text": "SLEEP APNEA clinically associated with PULMONARY HYPERTENSION",
+        "triplet": {
+            "subject": "SLEEP APNEA",
+            "predicate": "clinically associated with",
+            "object": "PULMONARY HYPERTENSION"
+        }
+    },
+    {
+        "text": "SURGERY clinically associated with HYSTERECTOMY",
+        "triplet": {
+            "subject": "SURGERY",
+            "predicate": "clinically associated with",
+            "object": "HYSTERECTOMY"
+        }
+    },
+    {
+        "text": "Surgical procedure occurs before Postoperative lower respiratory tract infection",
+        "triplet": {
+            "subject": "Surgical procedure",
+            "predicate": "occurs before",
+            "object": "Postoperative lower respiratory tract infection"
+        }
+    },
+    {
+        "text": "Surgical Procedure has pcdc os authorized value Yes",
+        "triplet": {
+            "subject": "Surgical Procedure",
+            "predicate": "has pcdc os authorized value",
+            "object": "Yes"
+        }
+    },
+    {
+        "text": "Surgical Procedure has pcdc os authorized value Not Reported",
+        "triplet": {
+            "subject": "Surgical Procedure",
+            "predicate": "has pcdc os authorized value",
+            "object": "Not Reported"
+        }
+    },
+    {
+        "text": "DIARRHEA CHRONIC clinically associated with VOLUME DEPLETION INTRAVASCULAR",
+        "triplet": {
+            "subject": "DIARRHEA CHRONIC",
+            "predicate": "clinically associated with",
+            "object": "VOLUME DEPLETION INTRAVASCULAR"
+        }
+    },
+    {
+        "text": "loperamide may treat Diarrhea",
+        "triplet": {
+            "subject": "loperamide",
+            "predicate": "may treat",
+            "object": "Diarrhea"
+        }
+    },
+    {
+        "text": "loperamide has tradename Pepto Diarrhea Control",
+        "triplet": {
+            "subject": "loperamide",
+            "predicate": "has tradename",
+            "object": "Pepto Diarrhea Control"
+        }
+    },
+    {
+        "text": "loperamide contraindicated with disease Diarrhea",
+        "triplet": {
+            "subject": "loperamide",
+            "predicate": "contraindicated with disease",
+            "object": "Diarrhea"
+        }
+    },
+    {
+        "text": "loperamide has therapeutic class Antidiarrheal Agent",
+        "triplet": {
+            "subject": "loperamide",
+            "predicate": "has therapeutic class",
+            "object": "Antidiarrheal Agent"
+        }
+    },
+    {
+        "text": "loperamide has tradename Diareze",
+        "triplet": {
+            "subject": "loperamide",
+            "predicate": "has tradename",
+            "object": "Diareze"
+        }
+    },
+    {
+        "text": "Uveitis may be treated by adalimumab",
+        "triplet": {
+            "subject": "Uveitis",
+            "predicate": "may be treated by",
+            "object": "adalimumab"
+        }
+    },
+    {
+        "text": "Uveitis has associated morphology Inflammatory morphology",
+        "triplet": {
+            "subject": "Uveitis",
+            "predicate": "has associated morphology",
+            "object": "Inflammatory morphology"
+        }
+    },
+    {
+        "text": "Amlodipine active ingredient of aliskiren + amlodipine",
+        "triplet": {
+            "subject": "Amlodipine",
+            "predicate": "active ingredient of",
+            "object": "aliskiren + amlodipine"
+        }
+    },
+    {
+        "text": "amlodipine has parent Dihydropyridine Calcium Channel Blocker",
+        "triplet": {
+            "subject": "amlodipine",
+            "predicate": "has parent",
+            "object": "Dihydropyridine Calcium Channel Blocker"
+        }
+    },
+    {
+        "text": "Amlodipine active ingredient of aliskiren + amlodipine + HCTZ",
+        "triplet": {
+            "subject": "Amlodipine",
+            "predicate": "active ingredient of",
+            "object": "aliskiren + amlodipine + HCTZ"
+        }
+    },
+    {
+        "text": "Atenolol active ingredient of Atenolol + Nifedipine",
+        "triplet": {
+            "subject": "Atenolol",
+            "predicate": "active ingredient of",
+            "object": "Atenolol + Nifedipine"
+        }
+    },
+    {
+        "text": "Atenolol active ingredient of atenolol + amiloride + hydrochlorothiazide",
+        "triplet": {
+            "subject": "Atenolol",
+            "predicate": "active ingredient of",
+            "object": "atenolol + amiloride + hydrochlorothiazide"
+        }
+    },
+    {
+        "text": "Hypertension may be treated by levamlodipine",
+        "triplet": {
+            "subject": "Hypertension",
+            "predicate": "may be treated by",
+            "object": "levamlodipine"
+        }
+    },
+    {
+        "text": "Hypertension may be treated by clevidipine butyrate",
+        "triplet": {
+            "subject": "Hypertension",
+            "predicate": "may be treated by",
+            "object": "clevidipine butyrate"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Amlodipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Amlodipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Nisoldipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Nisoldipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Amlodipine mesylate",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Amlodipine mesylate"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Levamlodipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Levamlodipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Amlodipine maleate",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Amlodipine maleate"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Amlodipine besylate",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Amlodipine besylate"
+        }
+    },
+    {
+        "text": "bloqueador del canal de calcio disposition of besilato de amlodipino",
+        "triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "besilato de amlodipino"
+        }
+    },
+    {
+        "text": "bloqueador del canal de calcio disposition of mesilato de amlodipina",
+        "triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "mesilato de amlodipina"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Nimodipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Nimodipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Nifedipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Nifedipine"
+        }
+    },
+    {
+        "text": "bloqueador del canal de calcio disposition of amlodipino",
+        "triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "amlodipino"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Levamlodipine besylate",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Levamlodipine besylate"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Felodipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Felodipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Nicardipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Nicardipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Lercanidipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Lercanidipine"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Clevidipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Clevidipine"
+        }
+    },
+    {
+        "text": "bloqueador del canal de calcio disposition of isradipino",
+        "triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "isradipino"
+        }
+    },
+    {
+        "text": "bloqueador del canal de calcio disposition of maleato de amlodipino",
+        "triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "maleato de amlodipino"
+        }
+    },
+    {
+        "text": "Calcium channel blocker disposition of Cilnidipine",
+        "triplet": {
+            "subject": "Calcium channel blocker",
+            "predicate": "disposition of",
+            "object": "Cilnidipine"
+        }
+    },
+    {
+        "text": "bloqueador del canal de calcio disposition of clorhidrato de galopamilo",
+        "triplet": {
+            "subject": "bloqueador del canal de calcio",
+            "predicate": "disposition of",
+            "object": "clorhidrato de galopamilo"
+        }
+    },
+    {
+        "text": "Vaccine product direct substance of Immunization in infancy",
+        "triplet": {
+            "subject": "Vaccine product",
+            "predicate": "direct substance of",
+            "object": "Immunization in infancy"
+        }
+    },
+    {
+        "text": "Vaccines related to Childhood Vaccines",
+        "triplet": {
+            "subject": "Vaccines",
+            "predicate": "related to",
+            "object": "Childhood Vaccines"
+        }
+    },
+    {
+        "text": "Vaccines related to Flu Shot",
+        "triplet": {
+            "subject": "Vaccines",
+            "predicate": "related to",
+            "object": "Flu Shot"
+        }
+    },
+    {
+        "text": "Active or passive immunization associated procedure of Vaccine declined by parent",
+        "triplet": {
+            "subject": "Active or passive immunization",
+            "predicate": "associated procedure of",
+            "object": "Vaccine declined by parent"
+        }
+    },
+    {
+        "text": "Immunologic Sensitization has entry version IMMUNOL SENSITIZATION",
+        "triplet": {
+            "subject": "Immunologic Sensitization",
+            "predicate": "has entry version",
+            "object": "IMMUNOL SENSITIZATION"
+        }
+    },
+    {
+        "text": "Human immunodeficiency virus infection focus of Human immunodeficiency virus education",
+        "triplet": {
+            "subject": "Human immunodeficiency virus infection",
+            "predicate": "focus of",
+            "object": "Human immunodeficiency virus education"
+        }
+    },
+    {
+        "text": "HIV Infections may be prevented by elvitegravir",
+        "triplet": {
+            "subject": "HIV Infections",
+            "predicate": "may be prevented by",
+            "object": "elvitegravir"
+        }
+    },
+    {
+        "text": "HIV Infections may be prevented by dolutegravir",
+        "triplet": {
+            "subject": "HIV Infections",
+            "predicate": "may be prevented by",
+            "object": "dolutegravir"
+        }
+    },
+    {
+        "text": "HIV Infections may be treated by elvitegravir",
+        "triplet": {
+            "subject": "HIV Infections",
+            "predicate": "may be treated by",
+            "object": "elvitegravir"
+        }
+    },
+    {
+        "text": "HIV Infections may be prevented by Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor",
+        "triplet": {
+            "subject": "HIV Infections",
+            "predicate": "may be prevented by",
+            "object": "Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor"
+        }
+    },
+    {
+        "text": "Human immunodeficiency virus infection has causative agent Human immunodeficiency virus",
+        "triplet": {
+            "subject": "Human immunodeficiency virus infection",
+            "predicate": "has causative agent",
+            "object": "Human immunodeficiency virus"
+        }
+    },
+    {
+        "text": "HIV Infections may be treated by cobicistat",
+        "triplet": {
+            "subject": "HIV Infections",
+            "predicate": "may be treated by",
+            "object": "cobicistat"
+        }
+    },
+    {
+        "text": "infectious disease transmission use communicable disease transmission",
+        "triplet": {
+            "subject": "infectious disease transmission",
+            "predicate": "use",
+            "object": "communicable disease transmission"
+        }
+    },
+    {
+        "text": "communicable disease transmission used for infectious disease transmission",
+        "triplet": {
+            "subject": "communicable disease transmission",
+            "predicate": "used for",
+            "object": "infectious disease transmission"
+        }
+    },
+    {
+        "text": "Congenital diaphragmatic hernia occurs in Congenital",
+        "triplet": {
+            "subject": "Congenital diaphragmatic hernia",
+            "predicate": "occurs in",
+            "object": "Congenital"
+        }
+    },
+    {
+        "text": "Congenital diaphragmatic hernia focus of Fetal endoscopic tracheal occlusion for congenital diaphragmatic hernia",
+        "triplet": {
+            "subject": "Congenital diaphragmatic hernia",
+            "predicate": "focus of",
+            "object": "Fetal endoscopic tracheal occlusion for congenital diaphragmatic hernia"
+        }
+    },
+    {
+        "text": "Congenital diaphragmatic hernia has pathological process Pathological developmental process",
+        "triplet": {
+            "subject": "Congenital diaphragmatic hernia",
+            "predicate": "has pathological process",
+            "object": "Pathological developmental process"
+        }
+    },
+    {
+        "text": "Congenital diaphragmatic hernia has associated morphology Hernial opening",
+        "triplet": {
+            "subject": "Congenital diaphragmatic hernia",
+            "predicate": "has associated morphology",
+            "object": "Hernial opening"
+        }
+    },
+    {
+        "text": "PULMONARY HYPERTENSION clinically associated with HEPATOMEGALY",
+        "triplet": {
+            "subject": "PULMONARY HYPERTENSION",
+            "predicate": "clinically associated with",
+            "object": "HEPATOMEGALY"
+        }
+    },
+    {
+        "text": "RESPIRATORY DISTRESS clinically associated with PULMONARY EMBOLUS",
+        "triplet": {
+            "subject": "RESPIRATORY DISTRESS",
+            "predicate": "clinically associated with",
+            "object": "PULMONARY EMBOLUS"
+        }
+    },
+    {
+        "text": "RESPIRATORY DISTRESS clinically associated with RHABDOMYOLYSIS",
+        "triplet": {
+            "subject": "RESPIRATORY DISTRESS",
+            "predicate": "clinically associated with",
+            "object": "RHABDOMYOLYSIS"
+        }
+    },
+    {
+        "text": "RESPIRATORY DISTRESS clinically associated with SEIZURE",
+        "triplet": {
+            "subject": "RESPIRATORY DISTRESS",
+            "predicate": "clinically associated with",
+            "object": "SEIZURE"
+        }
+    },
+    {
+        "text": "RESPIRATORY DISTRESS clinically associated with BANDEMIA",
+        "triplet": {
+            "subject": "RESPIRATORY DISTRESS",
+            "predicate": "clinically associated with",
+            "object": "BANDEMIA"
+        }
+    },
+    {
+        "text": "RESPIRATORY DISTRESS clinically associated with ORAL CANDIDIASIS",
+        "triplet": {
+            "subject": "RESPIRATORY DISTRESS",
+            "predicate": "clinically associated with",
+            "object": "ORAL CANDIDIASIS"
+        }
+    },
+    {
+        "text": "RESPIRATORY DISTRESS clinically associated with ASTHMA",
+        "triplet": {
+            "subject": "RESPIRATORY DISTRESS",
+            "predicate": "clinically associated with",
+            "object": "ASTHMA"
+        }
+    },
+    {
+        "text": "LUNG DISEASE CHRONIC clinically associated with BRONCHIECTASIS",
+        "triplet": {
+            "subject": "LUNG DISEASE CHRONIC",
+            "predicate": "clinically associated with",
+            "object": "BRONCHIECTASIS"
+        }
+    },
+    {
+        "text": "herpes zoster use shingles",
+        "triplet": {
+            "subject": "herpes zoster",
+            "predicate": "use",
+            "object": "shingles"
+        }
+    },
+    {
+        "text": "Antiphospholipid syndrome has pathological process Autoimmune process",
+        "triplet": {
+            "subject": "Antiphospholipid syndrome",
+            "predicate": "has pathological process",
+            "object": "Autoimmune process"
+        }
+    },
+    {
+        "text": "Methadone causative agent of Allergy to methadone",
+        "triplet": {
+            "subject": "Methadone",
+            "predicate": "causative agent of",
+            "object": "Allergy to methadone"
+        }
+    },
+    {
+        "text": "methadone has physiologic effect Analgesia",
+        "triplet": {
+            "subject": "methadone",
+            "predicate": "has physiologic effect",
+            "object": "Analgesia"
+        }
+    },
+    {
+        "text": "methadone has physiologic effect Decreased Organized Electrical Activity",
+        "triplet": {
+            "subject": "methadone",
+            "predicate": "has physiologic effect",
+            "object": "Decreased Organized Electrical Activity"
+        }
+    },
+    {
+        "text": "METHADONE clinically associated with OPIATE ABUSE METHADONE",
+        "triplet": {
+            "subject": "METHADONE",
+            "predicate": "clinically associated with",
+            "object": "OPIATE ABUSE METHADONE"
+        }
+    },
+    {
+        "text": "methadone contraindicated with disease Drug Hypersensitivity",
+        "triplet": {
+            "subject": "methadone",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        }
+    },
+    {
+        "text": "CONFUSION clinically associated with HEPATIC ENCEPHALOPATHY",
+        "triplet": {
+            "subject": "CONFUSION",
+            "predicate": "clinically associated with",
+            "object": "HEPATIC ENCEPHALOPATHY"
+        }
+    },
+    {
+        "text": "Itching of skin on face interprets Itch of skin",
+        "triplet": {
+            "subject": "Itching of skin on face",
+            "predicate": "interprets",
+            "object": "Itch of skin"
+        }
+    },
+    {
+        "text": "Itching of skin on face has interpretation Present",
+        "triplet": {
+            "subject": "Itching of skin on face",
+            "predicate": "has interpretation",
+            "object": "Present"
+        }
+    },
+    {
+        "text": "Itching of skin on face has finding site Skin structure",
+        "triplet": {
+            "subject": "Itching of skin on face",
+            "predicate": "has finding site",
+            "object": "Skin structure"
+        }
+    },
+    {
+        "text": "Side Effect concept in subset Clinical Data Interchange Standards Consortium Terminology",
+        "triplet": {
+            "subject": "Side Effect",
+            "predicate": "concept in subset",
+            "object": "Clinical Data Interchange Standards Consortium Terminology"
+        }
+    },
+    {
+        "text": "Methylprednisolone is value for gdc property Pharmacologic Substance",
+        "triplet": {
+            "subject": "Methylprednisolone",
+            "predicate": "is value for gdc property",
+            "object": "Pharmacologic Substance"
+        }
+    },
+    {
+        "text": "methylprednisolone may treat Graft vs Host Disease",
+        "triplet": {
+            "subject": "methylprednisolone",
+            "predicate": "may treat",
+            "object": "Graft vs Host Disease"
+        }
+    },
+    {
+        "text": "methylprednisolone may treat Hematologic Diseases",
+        "triplet": {
+            "subject": "methylprednisolone",
+            "predicate": "may treat",
+            "object": "Hematologic Diseases"
+        }
+    },
+    {
+        "text": "methylprednisolone may treat Respiratory Distress Syndrome",
+        "triplet": {
+            "subject": "methylprednisolone",
+            "predicate": "may treat",
+            "object": "Respiratory Distress Syndrome"
+        }
+    },
+    {
+        "text": "Corticosteroid parent of methylprednisolone",
+        "triplet": {
+            "subject": "Corticosteroid",
+            "predicate": "parent of",
+            "object": "methylprednisolone"
+        }
+    },
+    {
+        "text": "Corticosteroid parent of beclomethasone",
+        "triplet": {
+            "subject": "Corticosteroid",
+            "predicate": "parent of",
+            "object": "beclomethasone"
+        }
+    },
+    {
+        "text": "Corticosteroid parent of triamcinolone",
+        "triplet": {
+            "subject": "Corticosteroid",
+            "predicate": "parent of",
+            "object": "triamcinolone"
+        }
+    },
+    {
+        "text": "Corticosteroid parent of fluticasone",
+        "triplet": {
+            "subject": "Corticosteroid",
+            "predicate": "parent of",
+            "object": "fluticasone"
+        }
+    },
+    {
+        "text": "Corticosteroid parent of mometasone",
+        "triplet": {
+            "subject": "Corticosteroid",
+            "predicate": "parent of",
+            "object": "mometasone"
+        }
+    },
+    {
+        "text": "Immunosuppressant causative agent of Effects of immunosuppressant therapy",
+        "triplet": {
+            "subject": "Immunosuppressant",
+            "predicate": "causative agent of",
+            "object": "Effects of immunosuppressant therapy"
+        }
+    },
+    {
+        "text": "simvastatin may prevent Coronary Artery Disease",
+        "triplet": {
+            "subject": "simvastatin",
+            "predicate": "may prevent",
+            "object": "Coronary Artery Disease"
+        }
+    },
+    {
+        "text": "simvastatin may treat Hyperlipoproteinemias",
+        "triplet": {
+            "subject": "simvastatin",
+            "predicate": "may treat",
+            "object": "Hyperlipoproteinemias"
+        }
+    },
+    {
+        "text": "simvastatin may treat Coronary Artery Disease",
+        "triplet": {
+            "subject": "simvastatin",
+            "predicate": "may treat",
+            "object": "Coronary Artery Disease"
+        }
+    },
+    {
+        "text": "Increased Cholesterol Synthesis physiologic effect of manganese dioxide",
+        "triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese dioxide"
+        }
+    },
+    {
+        "text": "Increased Cholesterol Synthesis physiologic effect of manganese chloride",
+        "triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese chloride"
+        }
+    },
+    {
+        "text": "Increased Cholesterol Synthesis physiologic effect of manganese sulfate",
+        "triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese sulfate"
+        }
+    },
+    {
+        "text": "Increased Cholesterol Synthesis physiologic effect of manganese",
+        "triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese"
+        }
+    },
+    {
+        "text": "Increased Cholesterol Synthesis physiologic effect of manganese gluconate",
+        "triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese gluconate"
+        }
+    },
+    {
+        "text": "Increased Cholesterol Synthesis physiologic effect of manganese monoxide",
+        "triplet": {
+            "subject": "Increased Cholesterol Synthesis",
+            "predicate": "physiologic effect of",
+            "object": "manganese monoxide"
+        }
+    },
+    {
+        "text": "Diurnal Variations use Human Biological Rhythms",
+        "triplet": {
+            "subject": "Diurnal Variations",
+            "predicate": "use",
+            "object": "Human Biological Rhythms"
+        }
+    },
+    {
+        "text": "Withdrawal symptom has finding informer Subject of record or other provider of history",
+        "triplet": {
+            "subject": "Withdrawal symptom",
+            "predicate": "has finding informer",
+            "object": "Subject of record or other provider of history"
+        }
+    },
+    {
+        "text": "Discontinuation possibly equivalent to Procedure discontinued",
+        "triplet": {
+            "subject": "Discontinuation",
+            "predicate": "possibly equivalent to",
+            "object": "Procedure discontinued"
+        }
+    },
+    {
+        "text": "metabolic process negatively regulated by catabolite repression",
+        "triplet": {
+            "subject": "metabolic process",
+            "predicate": "negatively regulated by",
+            "object": "catabolite repression"
+        }
+    },
+    {
+        "text": "Nerve Damage concept in subset FDA Center For Devices and Radiological Health Terminology",
+        "triplet": {
+            "subject": "Nerve Damage",
+            "predicate": "concept in subset",
+            "object": "FDA Center For Devices and Radiological Health Terminology"
+        }
+    },
+    {
+        "text": "Nerve injury possibly equivalent to Trunk nerve injury NOS",
+        "triplet": {
+            "subject": "Nerve injury",
+            "predicate": "possibly equivalent to",
+            "object": "Trunk nerve injury NOS"
+        }
+    },
+    {
+        "text": "Nerve injury occurs before Disorder due to and following injury to nerve",
+        "triplet": {
+            "subject": "Nerve injury",
+            "predicate": "occurs before",
+            "object": "Disorder due to and following injury to nerve"
+        }
+    },
+    {
+        "text": "salmon calcitonin ingredient of salmon calcitonin Nasal Spray",
+        "triplet": {
+            "subject": "salmon calcitonin",
+            "predicate": "ingredient of",
+            "object": "salmon calcitonin Nasal Spray"
+        }
+    },
+    {
+        "text": "Nasal Spray dose form of salmon calcitonin Nasal Spray",
+        "triplet": {
+            "subject": "Nasal Spray",
+            "predicate": "dose form of",
+            "object": "salmon calcitonin Nasal Spray"
+        }
+    },
+    {
+        "text": "Atresia of nasolacrimal duct occurs in Congenital",
+        "triplet": {
+            "subject": "Atresia of nasolacrimal duct",
+            "predicate": "occurs in",
+            "object": "Congenital"
+        }
+    },
+    {
+        "text": "Atresia of nasolacrimal duct has finding site Nasolacrimal duct structure",
+        "triplet": {
+            "subject": "Atresia of nasolacrimal duct",
+            "predicate": "has finding site",
+            "object": "Nasolacrimal duct structure"
+        }
+    },
+    {
+        "text": "atresia del conducto nasolagrimal has associated morphology atresia",
+        "triplet": {
+            "subject": "atresia del conducto nasolagrimal",
+            "predicate": "has associated morphology",
+            "object": "atresia"
+        }
+    },
+    {
+        "text": "atresia del conducto nasolagrimal has finding site estructura de conducto nasolagrimal",
+        "triplet": {
+            "subject": "atresia del conducto nasolagrimal",
+            "predicate": "has finding site",
+            "object": "estructura de conducto nasolagrimal"
+        }
+    },
+    {
+        "text": "Atresia of nasolacrimal duct has pathological process Pathological developmental process",
+        "triplet": {
+            "subject": "Atresia of nasolacrimal duct",
+            "predicate": "has pathological process",
+            "object": "Pathological developmental process"
+        }
+    },
+    {
+        "text": "Body of vertebra has part Central part of body of vertebra",
+        "triplet": {
+            "subject": "Body of vertebra",
+            "predicate": "has part",
+            "object": "Central part of body of vertebra"
+        }
+    },
+    {
+        "text": "Asthma may be treated by aminophylline dihydrate",
+        "triplet": {
+            "subject": "Asthma",
+            "predicate": "may be treated by",
+            "object": "aminophylline dihydrate"
+        }
+    },
+    {
+        "text": "Aerobic exercises associated with regular aerobic exercises",
+        "triplet": {
+            "subject": "Aerobic exercises",
+            "predicate": "associated with",
+            "object": "regular aerobic exercises"
+        }
+    },
+    {
+        "text": "Aerobic exercises focus of Provision of advice about aerobic exercise",
+        "triplet": {
+            "subject": "Aerobic exercises",
+            "predicate": "focus of",
+            "object": "Provision of advice about aerobic exercise"
+        }
+    },
+    {
+        "text": "Ambien tradename of zolpidem",
+        "triplet": {
+            "subject": "Ambien",
+            "predicate": "tradename of",
+            "object": "zolpidem"
+        }
+    },
+    {
+        "text": "Conducting system of heart has constitutional part Transitional myocyte",
+        "triplet": {
+            "subject": "Conducting system of heart",
+            "predicate": "has constitutional part",
+            "object": "Transitional myocyte"
+        }
+    },
+    {
+        "text": "Penicillin has contraindicated class cefuroxime",
+        "triplet": {
+            "subject": "Penicillin",
+            "predicate": "has contraindicated class",
+            "object": "cefuroxime"
+        }
+    },
+    {
+        "text": "Penicillin causative agent of Allergy to penicillin",
+        "triplet": {
+            "subject": "Penicillin",
+            "predicate": "causative agent of",
+            "object": "Allergy to penicillin"
+        }
+    },
+    {
+        "text": "Viagra tradename of sildenafil",
+        "triplet": {
+            "subject": "Viagra",
+            "predicate": "tradename of",
+            "object": "sildenafil"
+        }
+    },
+    {
+        "text": "Viagra ingredient of Viagra Pill",
+        "triplet": {
+            "subject": "Viagra",
+            "predicate": "ingredient of",
+            "object": "Viagra Pill"
+        }
+    },
+    {
+        "text": "Erectile dysfunction focus of Technique for impotence education",
+        "triplet": {
+            "subject": "Erectile dysfunction",
+            "predicate": "focus of",
+            "object": "Technique for impotence education"
+        }
+    },
+    {
+        "text": "erectile dysfunction use impotence",
+        "triplet": {
+            "subject": "erectile dysfunction",
+            "predicate": "use",
+            "object": "impotence"
+        }
+    },
+    {
+        "text": "Normal pressure hydrocephalus occurs in Period of life between birth and death",
+        "triplet": {
+            "subject": "Normal pressure hydrocephalus",
+            "predicate": "occurs in",
+            "object": "Period of life between birth and death"
+        }
+    },
+    {
+        "text": "Antidepressant Drugs used for Deanol",
+        "triplet": {
+            "subject": "Antidepressant Drugs",
+            "predicate": "used for",
+            "object": "Deanol"
+        }
+    },
+    {
+        "text": "Antidepressive Agent therapeutic class of nefazodone hydrochloride",
+        "triplet": {
+            "subject": "Antidepressive Agent",
+            "predicate": "therapeutic class of",
+            "object": "nefazodone hydrochloride"
+        }
+    },
+    {
+        "text": "Antidepressive Agent therapeutic class of divalproex sodium",
+        "triplet": {
+            "subject": "Antidepressive Agent",
+            "predicate": "therapeutic class of",
+            "object": "divalproex sodium"
+        }
+    },
+    {
+        "text": "SYPHILIS clinically associated with RPR NONREACTIVE",
+        "triplet": {
+            "subject": "SYPHILIS",
+            "predicate": "clinically associated with",
+            "object": "RPR NONREACTIVE"
+        }
+    },
+    {
+        "text": "Antidepressive Agent therapeutic class of Mood Stabilizer",
+        "triplet": {
+            "subject": "Antidepressive Agent",
+            "predicate": "therapeutic class of",
+            "object": "Mood Stabilizer"
+        }
+    },
+    {
+        "text": "Scrotal structure direct procedure site of repair of scrotal hernia with implantation of mesh",
+        "triplet": {
+            "subject": "Scrotal structure",
+            "predicate": "direct procedure site of",
+            "object": "repair of scrotal hernia with implantation of mesh"
+        }
+    },
+    {
+        "text": "Scrotum is value for gdc property Targeted Anatomic Site",
+        "triplet": {
+            "subject": "Scrotum",
+            "predicate": "is value for gdc property",
+            "object": "Targeted Anatomic Site"
+        }
+    },
+    {
+        "text": "Mass may be finding of disease Juvenile Polyp of the Small Intestine",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Juvenile Polyp of the Small Intestine"
+        }
+    },
+    {
+        "text": "Mass may be finding of disease Gastrointestinal Hamartoma",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Gastrointestinal Hamartoma"
+        }
+    },
+    {
+        "text": "Mass may be finding of disease Appendix Hyperplastic Polyp",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Appendix Hyperplastic Polyp"
+        }
+    },
+    {
+        "text": "Mass may be finding of disease Ampulla of Vater Tubulovillous Adenoma",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Ampulla of Vater Tubulovillous Adenoma"
+        }
+    },
+    {
+        "text": "Mass may be finding of disease Gallbladder Pyloric Gland Adenoma",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Gallbladder Pyloric Gland Adenoma"
+        }
+    },
+    {
+        "text": "Mass associated morphology of mass of right lacrimal sac",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "associated morphology of",
+            "object": "mass of right lacrimal sac"
+        }
+    },
+    {
+        "text": "Mass may be finding of disease Rectal Adenomatous Polyp",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "may be finding of disease",
+            "object": "Rectal Adenomatous Polyp"
+        }
+    },
+    {
+        "text": "Mass associated morphology of mobile mass of right lacrimal sac",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "associated morphology of",
+            "object": "mobile mass of right lacrimal sac"
+        }
+    },
+    {
+        "text": "Mass associated morphology of mass of lacrimal sac",
+        "triplet": {
+            "subject": "Mass",
+            "predicate": "associated morphology of",
+            "object": "mass of lacrimal sac"
+        }
+    },
+    {
+        "text": "Strain of intercostal muscle due to Traumatic event",
+        "triplet": {
+            "subject": "Strain of intercostal muscle",
+            "predicate": "due to",
+            "object": "Traumatic event"
+        }
+    },
+    {
+        "text": "Strain of intercostal muscle has finding site Structure of intercostal muscle",
+        "triplet": {
+            "subject": "Strain of intercostal muscle",
+            "predicate": "has finding site",
+            "object": "Structure of intercostal muscle"
+        }
+    },
+    {
+        "text": "Genus Hantavirus causative agent of Disease caused by Hantavirus",
+        "triplet": {
+            "subject": "Genus Hantavirus",
+            "predicate": "causative agent of",
+            "object": "Disease caused by Hantavirus"
+        }
+    },
+    {
+        "text": "Hantavirus used for epidemic hemorrhagic fever virus",
+        "triplet": {
+            "subject": "Hantavirus",
+            "predicate": "used for",
+            "object": "epidemic hemorrhagic fever virus"
+        }
+    },
+    {
+        "text": "Hantavirus used for Korean hemorrhagic fever virus",
+        "triplet": {
+            "subject": "Hantavirus",
+            "predicate": "used for",
+            "object": "Korean hemorrhagic fever virus"
+        }
+    },
+    {
+        "text": "Hantavirus used for Leaky virus",
+        "triplet": {
+            "subject": "Hantavirus",
+            "predicate": "used for",
+            "object": "Leaky virus"
+        }
+    },
+    {
+        "text": "Appendicitis has associated morphology Inflammatory morphology",
+        "triplet": {
+            "subject": "Appendicitis",
+            "predicate": "has associated morphology",
+            "object": "Inflammatory morphology"
+        }
+    },
+    {
+        "text": "Appendicitis cause of Complicated appendicitis",
+        "triplet": {
+            "subject": "Appendicitis",
+            "predicate": "cause of",
+            "object": "Complicated appendicitis"
+        }
+    },
+    {
+        "text": "FEVER clinically associated with HEPATOCELLULAR CARCINOMA",
+        "triplet": {
+            "subject": "FEVER",
+            "predicate": "clinically associated with",
+            "object": "HEPATOCELLULAR CARCINOMA"
+        }
+    },
+    {
+        "text": "Fever may be finding of disease Colorectal Mucinous Adenocarcinoma",
+        "triplet": {
+            "subject": "Fever",
+            "predicate": "may be finding of disease",
+            "object": "Colorectal Mucinous Adenocarcinoma"
+        }
+    },
+    {
+        "text": "Fever may be finding of disease Colorectal Small Cell Neuroendocrine Carcinoma",
+        "triplet": {
+            "subject": "Fever",
+            "predicate": "may be finding of disease",
+            "object": "Colorectal Small Cell Neuroendocrine Carcinoma"
+        }
+    },
+    {
+        "text": "FEVER clinically associated with HIV INFECTION",
+        "triplet": {
+            "subject": "FEVER",
+            "predicate": "clinically associated with",
+            "object": "HIV INFECTION"
+        }
+    },
+    {
+        "text": "Dose concept in subset FDA Structured Product Labeling Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "FDA Structured Product Labeling Terminology"
+        }
+    },
+    {
+        "text": "Immediate Release Dosage Form concept in subset NCPDP Terminology",
+        "triplet": {
+            "subject": "Immediate Release Dosage Form",
+            "predicate": "concept in subset",
+            "object": "NCPDP Terminology"
+        }
+    },
+    {
+        "text": "Immediate Release Dosage Form concept in subset NCPDP Strength Form Terminology",
+        "triplet": {
+            "subject": "Immediate Release Dosage Form",
+            "predicate": "concept in subset",
+            "object": "NCPDP Strength Form Terminology"
+        }
+    },
+    {
+        "text": "Extended Release Suspension dose form of oxeladin Extended Release Suspension",
+        "triplet": {
+            "subject": "Extended Release Suspension",
+            "predicate": "dose form of",
+            "object": "oxeladin Extended Release Suspension"
+        }
+    },
+    {
+        "text": "Extended Release Suspension Dosage Form concept in subset Clinical Data Interchange Standards Consortium Terminology",
+        "triplet": {
+            "subject": "Extended Release Suspension Dosage Form",
+            "predicate": "concept in subset",
+            "object": "Clinical Data Interchange Standards Consortium Terminology"
+        }
+    },
+    {
+        "text": "gabapentin has mechanism of action Unknown Cellular or Molecular Interaction",
+        "triplet": {
+            "subject": "gabapentin",
+            "predicate": "has mechanism of action",
+            "object": "Unknown Cellular or Molecular Interaction"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug dihydrocodeine bitartrate",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "dihydrocodeine bitartrate"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug hydromorphone hydrochloride",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "hydromorphone hydrochloride"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug codeine anhyd",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "codeine anhyd"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug hydromorphone",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "hydromorphone"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug codeine hydrochloride",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "codeine hydrochloride"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug homatropine hydrobromide",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "homatropine hydrobromide"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug codeine camsyl",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "codeine camsyl"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug codeine phosphate",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "codeine phosphate"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug oxycodone hydrochloride",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "oxycodone hydrochloride"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug codeine",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "codeine"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug oxycodone terephthalate",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "oxycodone terephthalate"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug levorphanol tartrate",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "levorphanol tartrate"
+        }
+    },
+    {
+        "text": "Respiratory Depression has contraindicated drug oxymorphone hydrochloride",
+        "triplet": {
+            "subject": "Respiratory Depression",
+            "predicate": "has contraindicated drug",
+            "object": "oxymorphone hydrochloride"
+        }
+    },
+    {
+        "text": "diclofenac contraindicated with disease Drug Hypersensitivity",
+        "triplet": {
+            "subject": "diclofenac",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        }
+    },
+    {
+        "text": "lisinopril contraindicated with disease Hyperaldosteronism",
+        "triplet": {
+            "subject": "lisinopril",
+            "predicate": "contraindicated with disease",
+            "object": "Hyperaldosteronism"
+        }
+    },
+    {
+        "text": "lisinopril has modification lisinopril anhidro",
+        "triplet": {
+            "subject": "lisinopril",
+            "predicate": "has modification",
+            "object": "lisinopril anhidro"
+        }
+    },
+    {
+        "text": "lisinopril contraindicated with disease Hypotension",
+        "triplet": {
+            "subject": "lisinopril",
+            "predicate": "contraindicated with disease",
+            "object": "Hypotension"
+        }
+    },
+    {
+        "text": "lisinopril has tradename Prinize",
+        "triplet": {
+            "subject": "lisinopril",
+            "predicate": "has tradename",
+            "object": "Prinize"
+        }
+    },
+    {
+        "text": "naproxen contraindicated with disease Drug Hypersensitivity",
+        "triplet": {
+            "subject": "naproxen",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        }
+    },
+    {
+        "text": "Naproxen active ingredient of naproxen + esomeprazole",
+        "triplet": {
+            "subject": "Naproxen",
+            "predicate": "active ingredient of",
+            "object": "naproxen + esomeprazole"
+        }
+    },
+    {
+        "text": "naproxen has tradename Arthroxen",
+        "triplet": {
+            "subject": "naproxen",
+            "predicate": "has tradename",
+            "object": "Arthroxen"
+        }
+    },
+    {
+        "text": "Diagnoses permuted term of Diagnosis",
+        "triplet": {
+            "subject": "Diagnoses",
+            "predicate": "permuted term of",
+            "object": "Diagnosis"
+        }
+    },
+    {
+        "text": "quinine may prevent Muscle Cramp",
+        "triplet": {
+            "subject": "quinine",
+            "predicate": "may prevent",
+            "object": "Muscle Cramp"
+        }
+    },
+    {
+        "text": "quinine may treat Muscle Cramp",
+        "triplet": {
+            "subject": "quinine",
+            "predicate": "may treat",
+            "object": "Muscle Cramp"
+        }
+    },
+    {
+        "text": "quinine has physiologic effect Decreased Striated Muscle Organized Electrical Activity",
+        "triplet": {
+            "subject": "quinine",
+            "predicate": "has physiologic effect",
+            "object": "Decreased Striated Muscle Organized Electrical Activity"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine salicylate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine salicylate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine bisulfate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine bisulfate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine ascorbate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine ascorbate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine dihydrochloride",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine dihydrochloride"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine hydrochloride",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine hydrochloride"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine salicylate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine salicylate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be prevented by quinine sulfate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be prevented by",
+            "object": "quinine sulfate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine ascorbate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine ascorbate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine bisulfate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine bisulfate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine dihydrochloride",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine dihydrochloride"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine hydrochloride",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine hydrochloride"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by quinine sulfate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "quinine sulfate"
+        }
+    },
+    {
+        "text": "Muscle Cramp may be treated by methyl salicylate",
+        "triplet": {
+            "subject": "Muscle Cramp",
+            "predicate": "may be treated by",
+            "object": "methyl salicylate"
+        }
+    },
+    {
+        "text": "Dermatosis caused by mites possibly equivalent to Animal mite infestation",
+        "triplet": {
+            "subject": "Dermatosis caused by mites",
+            "predicate": "possibly equivalent to",
+            "object": "Animal mite infestation"
+        }
+    },
+    {
+        "text": "Dermatosis caused by mites possibly equivalent to Infestation by Acarina",
+        "triplet": {
+            "subject": "Dermatosis caused by mites",
+            "predicate": "possibly equivalent to",
+            "object": "Infestation by Acarina"
+        }
+    },
+    {
+        "text": "Dermatosis caused by mites has pathological process Parasitic process",
+        "triplet": {
+            "subject": "Dermatosis caused by mites",
+            "predicate": "has pathological process",
+            "object": "Parasitic process"
+        }
+    },
+    {
+        "text": "Dermatosis caused by mites has causative agent Mite",
+        "triplet": {
+            "subject": "Dermatosis caused by mites",
+            "predicate": "has causative agent",
+            "object": "Mite"
+        }
+    },
+    {
+        "text": "Medications expanded form of MEDS",
+        "triplet": {
+            "subject": "Medications",
+            "predicate": "expanded form of",
+            "object": "MEDS"
+        }
+    },
+    {
+        "text": "MEDS has expanded form Medications",
+        "triplet": {
+            "subject": "MEDS",
+            "predicate": "has expanded form",
+            "object": "Medications"
+        }
+    },
+    {
+        "text": "Wine acted on by process Wine intake",
+        "triplet": {
+            "subject": "Wine",
+            "predicate": "acted on by process",
+            "object": "Wine intake"
+        }
+    },
+    {
+        "text": "wine use alcoholic beverage",
+        "triplet": {
+            "subject": "wine",
+            "predicate": "use",
+            "object": "alcoholic beverage"
+        }
+    },
+    {
+        "text": "Drug interaction with drug focus of Medication interaction with medication education",
+        "triplet": {
+            "subject": "Drug interaction with drug",
+            "predicate": "focus of",
+            "object": "Medication interaction with medication education"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Bacterial Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Bacterial Infections"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Protozoan Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Protozoan Infections"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Chlamydia Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Chlamydia Infections"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Rickettsia Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Rickettsia Infections"
+        }
+    },
+    {
+        "text": "Oxytetracycline hydrochloride is modification of Oxytetracycline",
+        "triplet": {
+            "subject": "Oxytetracycline hydrochloride",
+            "predicate": "is modification of",
+            "object": "Oxytetracycline"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may prevent Bacterial Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may prevent",
+            "object": "Bacterial Infections"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Psittacosis",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Psittacosis"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may prevent Protozoan Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may prevent",
+            "object": "Protozoan Infections"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Mycoplasma Infections",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Mycoplasma Infections"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Acne Vulgaris",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Acne Vulgaris"
+        }
+    },
+    {
+        "text": "oxytetracycline hydrochloride may treat Gonorrhea",
+        "triplet": {
+            "subject": "oxytetracycline hydrochloride",
+            "predicate": "may treat",
+            "object": "Gonorrhea"
+        }
+    },
+    {
+        "text": "neomycin sulfate ingredient of neomycin compounding powder",
+        "triplet": {
+            "subject": "neomycin sulfate",
+            "predicate": "ingredient of",
+            "object": "neomycin compounding powder"
+        }
+    },
+    {
+        "text": "Indication for possibly equivalent to Indication of",
+        "triplet": {
+            "subject": "Indication for",
+            "predicate": "possibly equivalent to",
+            "object": "Indication of"
+        }
+    },
+    {
+        "text": "Indication of possibly equivalent to Indication for",
+        "triplet": {
+            "subject": "Indication of",
+            "predicate": "possibly equivalent to",
+            "object": "Indication for"
+        }
+    },
+    {
+        "text": "Reason for possibly equivalent to Indication for",
+        "triplet": {
+            "subject": "Reason for",
+            "predicate": "possibly equivalent to",
+            "object": "Indication for"
+        }
+    },
+    {
+        "text": "hallazgo relacionado con el nivel de glucemia focus of manejo de la hiperglucemia",
+        "triplet": {
+            "subject": "hallazgo relacionado con el nivel de glucemia",
+            "predicate": "focus of",
+            "object": "manejo de la hiperglucemia"
+        }
+    },
+    {
+        "text": "hallazgo relacionado con el nivel de glucemia focus of manejo de la hipoglucemia",
+        "triplet": {
+            "subject": "hallazgo relacionado con el nivel de glucemia",
+            "predicate": "focus of",
+            "object": "manejo de la hipoglucemia"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by hypoglycemic agent via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by hypoglycemic agent via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal hyperbilirubinemia caused by substance transmitted from mother",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal hyperbilirubinemia caused by substance transmitted from mother"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by uterine depressor via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by uterine depressor via breast milk"
+        }
+    },
+    {
+        "text": "lactancia materna cause of hiperbilirrubinemia neonatal causada por sustancia transmitida por la madre",
+        "triplet": {
+            "subject": "lactancia materna",
+            "predicate": "cause of",
+            "object": "hiperbilirrubinemia neonatal causada por sustancia transmitida por la madre"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by maternal alcohol transmitted via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by maternal alcohol transmitted via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by nutritional substance via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by nutritional substance via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by medicinal agent transmitted via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by medicinal agent transmitted via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by endocrine agent via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by endocrine agent via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by substance transmitted via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by substance transmitted via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder due to maternal exposure to environmental chemical via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder due to maternal exposure to environmental chemical via breast milk"
+        }
+    },
+    {
+        "text": "lactancia materna cause of trastorno neonatal causado por antibacteriano transmitido por leche materna",
+        "triplet": {
+            "subject": "lactancia materna",
+            "predicate": "cause of",
+            "object": "trastorno neonatal causado por antibacteriano transmitido por leche materna"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding cause of Neonatal disorder caused by immune serum transmitted via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "cause of",
+            "object": "Neonatal disorder caused by immune serum transmitted via breast milk"
+        }
+    },
+    {
+        "text": "Maternal breastfeeding associated with Neonatal disorder caused by noxious substance transmitted via breast milk",
+        "triplet": {
+            "subject": "Maternal breastfeeding",
+            "predicate": "associated with",
+            "object": "Neonatal disorder caused by noxious substance transmitted via breast milk"
+        }
+    },
+    {
+        "text": "diverticulitis associated morphology of diverticulitis de ciego",
+        "triplet": {
+            "subject": "diverticulitis",
+            "predicate": "associated morphology of",
+            "object": "diverticulitis de ciego"
+        }
+    },
+    {
+        "text": "Immune Systems permuted term of Immune System",
+        "triplet": {
+            "subject": "Immune Systems",
+            "predicate": "permuted term of",
+            "object": "Immune System"
+        }
+    },
+    {
+        "text": "rhinovirus used for common cold virus",
+        "triplet": {
+            "subject": "rhinovirus",
+            "predicate": "used for",
+            "object": "common cold virus"
+        }
+    },
+    {
+        "text": "Genus Rhinovirus possibly equivalent to Human rhinovirus",
+        "triplet": {
+            "subject": "Genus Rhinovirus",
+            "predicate": "possibly equivalent to",
+            "object": "Human rhinovirus"
+        }
+    },
+    {
+        "text": "Rhinoviruses permuted term of Rhinovirus",
+        "triplet": {
+            "subject": "Rhinoviruses",
+            "predicate": "permuted term of",
+            "object": "Rhinovirus"
+        }
+    },
+    {
+        "text": "communicable disease transmission used for contagion",
+        "triplet": {
+            "subject": "communicable disease transmission",
+            "predicate": "used for",
+            "object": "contagion"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with CARDIOMYOPATHY HYPERTENSIVE",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "CARDIOMYOPATHY HYPERTENSIVE"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with HYPERKALEMIA",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "HYPERKALEMIA"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with DIZZINESS",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "DIZZINESS"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with HYPERGLYCEMIA",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "HYPERGLYCEMIA"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with HYPERTRIGLYCERIDEMIA",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "HYPERTRIGLYCERIDEMIA"
+        }
+    },
+    {
+        "text": "DIABETES MELLITUS NON INSULIN DEPENDENT clinically associated with HEADACHE",
+        "triplet": {
+            "subject": "DIABETES MELLITUS NON INSULIN DEPENDENT",
+            "predicate": "clinically associated with",
+            "object": "HEADACHE"
+        }
+    },
+    {
+        "text": "SUBACUTE SCLEROSING PANENCEPHALITIS expanded form of SSPE",
+        "triplet": {
+            "subject": "SUBACUTE SCLEROSING PANENCEPHALITIS",
+            "predicate": "expanded form of",
+            "object": "SSPE"
+        }
+    },
+    {
+        "text": "SSPE has expanded form SUBACUTE SCLEROSING PANENCEPHALITIS",
+        "triplet": {
+            "subject": "SSPE",
+            "predicate": "has expanded form",
+            "object": "SUBACUTE SCLEROSING PANENCEPHALITIS"
+        }
+    },
+    {
+        "text": "Active immunization associated procedure of vaccination not carried out",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "associated procedure of",
+            "object": "vaccination not carried out"
+        }
+    },
+    {
+        "text": "Active immunization replaces Human vaccination",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "replaces",
+            "object": "Human vaccination"
+        }
+    },
+    {
+        "text": "Active immunization focus of review of immunization history",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "focus of",
+            "object": "review of immunization history"
+        }
+    },
+    {
+        "text": "Active immunization focus of Immunization education",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "focus of",
+            "object": "Immunization education"
+        }
+    },
+    {
+        "text": "Vascular malformation direct morphology of Rastelli operation in repair of transposition of great vessels",
+        "triplet": {
+            "subject": "Vascular malformation",
+            "predicate": "direct morphology of",
+            "object": "Rastelli operation in repair of transposition of great vessels"
+        }
+    },
+    {
+        "text": "SCLEROTHERAPY clinically associated with ESOPHAGOGASTRODUODENOSCOPY",
+        "triplet": {
+            "subject": "SCLEROTHERAPY",
+            "predicate": "clinically associated with",
+            "object": "ESOPHAGOGASTRODUODENOSCOPY"
+        }
+    },
+    {
+        "text": "SCLEROTHERAPY clinically associated with ESOPHAGEAL VARIX WITH BLEEDING",
+        "triplet": {
+            "subject": "SCLEROTHERAPY",
+            "predicate": "clinically associated with",
+            "object": "ESOPHAGEAL VARIX WITH BLEEDING"
+        }
+    },
+    {
+        "text": "Compression NOS was a Procedures relating to splintage and immobilization",
+        "triplet": {
+            "subject": "Compression NOS",
+            "predicate": "was a",
+            "object": "Procedures relating to splintage and immobilization"
+        }
+    },
+    {
+        "text": "compression expanded form of Compression",
+        "triplet": {
+            "subject": "compression",
+            "predicate": "expanded form of",
+            "object": "Compression"
+        }
+    },
+    {
+        "text": "Compression has expanded form compression",
+        "triplet": {
+            "subject": "Compression",
+            "predicate": "has expanded form",
+            "object": "compression"
+        }
+    },
+    {
+        "text": "IRON OVERDOSE clinically associated with OVERDOSE INTENTIONAL",
+        "triplet": {
+            "subject": "IRON OVERDOSE",
+            "predicate": "clinically associated with",
+            "object": "OVERDOSE INTENTIONAL"
+        }
+    },
+    {
+        "text": "deferoxamine may prevent Iron Overload",
+        "triplet": {
+            "subject": "deferoxamine",
+            "predicate": "may prevent",
+            "object": "Iron Overload"
+        }
+    },
+    {
+        "text": "Deferoxamine has target Iron",
+        "triplet": {
+            "subject": "Deferoxamine",
+            "predicate": "has target",
+            "object": "Iron"
+        }
+    },
+    {
+        "text": "deferoxamine has mechanism of action Iron Chelating Activity",
+        "triplet": {
+            "subject": "deferoxamine",
+            "predicate": "has mechanism of action",
+            "object": "Iron Chelating Activity"
+        }
+    },
+    {
+        "text": "deferoxamine has parent Iron Chelator",
+        "triplet": {
+            "subject": "deferoxamine",
+            "predicate": "has parent",
+            "object": "Iron Chelator"
+        }
+    },
+    {
+        "text": "desferrioxamine use deferoxamine",
+        "triplet": {
+            "subject": "desferrioxamine",
+            "predicate": "use",
+            "object": "deferoxamine"
+        }
+    },
+    {
+        "text": "activated charcoal may treat Drug Overdose",
+        "triplet": {
+            "subject": "activated charcoal",
+            "predicate": "may treat",
+            "object": "Drug Overdose"
+        }
+    },
+    {
+        "text": "Rickets disease has associated gene VDR Gene",
+        "triplet": {
+            "subject": "Rickets",
+            "predicate": "disease has associated gene",
+            "object": "VDR Gene"
+        }
+    },
+    {
+        "text": "Rickets disease has associated gene VDR wt Allele",
+        "triplet": {
+            "subject": "Rickets",
+            "predicate": "disease has associated gene",
+            "object": "VDR wt Allele"
+        }
+    },
+    {
+        "text": "Rickets disease has normal tissue origin Connective and Soft Tissue",
+        "triplet": {
+            "subject": "Rickets",
+            "predicate": "disease has normal tissue origin",
+            "object": "Connective and Soft Tissue"
+        }
+    },
+    {
+        "text": "Fibromyalgia replaced by Fibromyositis",
+        "triplet": {
+            "subject": "Fibromyalgia",
+            "predicate": "replaced by",
+            "object": "Fibromyositis"
+        }
+    },
+    {
+        "text": "Fibromyositis replaces Fibromyalgia",
+        "triplet": {
+            "subject": "Fibromyositis",
+            "predicate": "replaces",
+            "object": "Fibromyalgia"
+        }
+    },
+    {
+        "text": "fibromyalgia used for fibromyositis fibromyalgia syndrome",
+        "triplet": {
+            "subject": "fibromyalgia",
+            "predicate": "used for",
+            "object": "fibromyositis fibromyalgia syndrome"
+        }
+    },
+    {
+        "text": "Fibromyositis possibly equivalent to Fibromyalgia",
+        "triplet": {
+            "subject": "Fibromyositis",
+            "predicate": "possibly equivalent to",
+            "object": "Fibromyalgia"
+        }
+    },
+    {
+        "text": "muscular rheumatism use fibromyalgia",
+        "triplet": {
+            "subject": "muscular rheumatism",
+            "predicate": "use",
+            "object": "fibromyalgia"
+        }
+    },
+    {
+        "text": "fibromyalgia used for muscular rheumatism",
+        "triplet": {
+            "subject": "fibromyalgia",
+            "predicate": "used for",
+            "object": "muscular rheumatism"
+        }
+    },
+    {
+        "text": "Fibrositis possibly equivalent to Fibromyalgia",
+        "triplet": {
+            "subject": "Fibrositis",
+            "predicate": "possibly equivalent to",
+            "object": "Fibromyalgia"
+        }
+    },
+    {
+        "text": "fibromyositis fibromyalgia syndrome use fibromyalgia",
+        "triplet": {
+            "subject": "fibromyositis fibromyalgia syndrome",
+            "predicate": "use",
+            "object": "fibromyalgia"
+        }
+    },
+    {
+        "text": "fibromyalgia used for fibrositis",
+        "triplet": {
+            "subject": "fibromyalgia",
+            "predicate": "used for",
+            "object": "fibrositis"
+        }
+    },
+    {
+        "text": "Acupuncture associated with pain relieved by acupuncture",
+        "triplet": {
+            "subject": "Acupuncture",
+            "predicate": "associated with",
+            "object": "pain relieved by acupuncture"
+        }
+    },
+    {
+        "text": "CAM Exercise Therapy concept in subset CTRP Terminology",
+        "triplet": {
+            "subject": "CAM Exercise Therapy",
+            "predicate": "concept in subset",
+            "object": "CTRP Terminology"
+        }
+    },
+    {
+        "text": "CAM Exercise Therapy concept in subset CTRP Intervention Terminology",
+        "triplet": {
+            "subject": "CAM Exercise Therapy",
+            "predicate": "concept in subset",
+            "object": "CTRP Intervention Terminology"
+        }
+    },
+    {
+        "text": "Hyperhomocysteinemia related to genetic biomarker MTRR Gene",
+        "triplet": {
+            "subject": "Hyperhomocysteinemia",
+            "predicate": "related to genetic biomarker",
+            "object": "MTRR Gene"
+        }
+    },
+    {
+        "text": "Hyperhomocysteinemia related to genetic biomarker MTHFR Gene",
+        "triplet": {
+            "subject": "Hyperhomocysteinemia",
+            "predicate": "related to genetic biomarker",
+            "object": "MTHFR Gene"
+        }
+    },
+    {
+        "text": "Hyperhomocysteinemia related to genetic biomarker MTR Gene",
+        "triplet": {
+            "subject": "Hyperhomocysteinemia",
+            "predicate": "related to genetic biomarker",
+            "object": "MTR Gene"
+        }
+    },
+    {
+        "text": "Cardiovascular Diseases may be prevented by empagliflozin",
+        "triplet": {
+            "subject": "Cardiovascular Diseases",
+            "predicate": "may be prevented by",
+            "object": "empagliflozin"
+        }
+    },
+    {
+        "text": "CARDIOVASCULAR DISEASE clinically associated with HYPERTENSION",
+        "triplet": {
+            "subject": "CARDIOVASCULAR DISEASE",
+            "predicate": "clinically associated with",
+            "object": "HYPERTENSION"
+        }
+    },
+    {
+        "text": "CARDIOVASCULAR DISEASE clinically associated with CONGESTIVE HEART FAILURE",
+        "triplet": {
+            "subject": "CARDIOVASCULAR DISEASE",
+            "predicate": "clinically associated with",
+            "object": "CONGESTIVE HEART FAILURE"
+        }
+    },
+    {
+        "text": "Neural tube defect has associated morphology Morphologically abnormal structure",
+        "triplet": {
+            "subject": "Neural tube defect",
+            "predicate": "has associated morphology",
+            "object": "Morphologically abnormal structure"
+        }
+    },
+    {
+        "text": "Neural Tube Defect concept in subset CPTAC Medical Conditions Codelist",
+        "triplet": {
+            "subject": "Neural Tube Defect",
+            "predicate": "concept in subset",
+            "object": "CPTAC Medical Conditions Codelist"
+        }
+    },
+    {
+        "text": "Neural Tube Defects may be prevented by levomefolate calcium",
+        "triplet": {
+            "subject": "Neural Tube Defects",
+            "predicate": "may be prevented by",
+            "object": "levomefolate calcium"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene MTHFR Gene",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "MTHFR Gene"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene MTHFR wt Allele",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "MTHFR wt Allele"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene MTR wt Allele",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "MTR wt Allele"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene MTR Gene",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "MTR Gene"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene FTCD wt Allele",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "FTCD wt Allele"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene FTCD Gene",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "FTCD Gene"
+        }
+    },
+    {
+        "text": "Folic Acid Metabolic Process process involves gene FPGS wt Allele",
+        "triplet": {
+            "subject": "Folic Acid Metabolic Process",
+            "predicate": "process involves gene",
+            "object": "FPGS wt Allele"
+        }
+    },
+    {
+        "text": "VITAMIN D ingredient of SUSTACAL EGG NOG",
+        "triplet": {
+            "subject": "VITAMIN D",
+            "predicate": "ingredient of",
+            "object": "SUSTACAL EGG NOG"
+        }
+    },
+    {
+        "text": "VITAMIN D ingredient of SUSTACAL PUDDING VANILLA",
+        "triplet": {
+            "subject": "VITAMIN D",
+            "predicate": "ingredient of",
+            "object": "SUSTACAL PUDDING VANILLA"
+        }
+    },
+    {
+        "text": "VITAMIN D ingredient of SUSTACAL PWDR VANILLA",
+        "triplet": {
+            "subject": "VITAMIN D",
+            "predicate": "ingredient of",
+            "object": "SUSTACAL PWDR VANILLA"
+        }
+    },
+    {
+        "text": "VITAMIN D ingredient of SUSTACAL PWDR CHOCOLATE",
+        "triplet": {
+            "subject": "VITAMIN D",
+            "predicate": "ingredient of",
+            "object": "SUSTACAL PWDR CHOCOLATE"
+        }
+    },
+    {
+        "text": "Flatus concept in subset FDA Center For Devices and Radiological Health Terminology",
+        "triplet": {
+            "subject": "Flatus",
+            "predicate": "concept in subset",
+            "object": "FDA Center For Devices and Radiological Health Terminology"
+        }
+    },
+    {
+        "text": "Dose concept in subset CDISC SDTM Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "CDISC SDTM Terminology"
+        }
+    },
+    {
+        "text": "Dose concept in subset UCUM Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "UCUM Terminology"
+        }
+    },
+    {
+        "text": "Dose concept in subset SPL Unit of Presentation Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "SPL Unit of Presentation Terminology"
+        }
+    },
+    {
+        "text": "Dose concept in subset CDISC Root Variable Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "CDISC Root Variable Terminology"
+        }
+    },
+    {
+        "text": "Dose concept in subset CDISC SDTM Trial Summary Parameter Long Name Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "CDISC SDTM Trial Summary Parameter Long Name Terminology"
+        }
+    },
+    {
+        "text": "Dose concept in subset CDISC SDTM Trial Summary Parameter Short Name Terminology",
+        "triplet": {
+            "subject": "Dose",
+            "predicate": "concept in subset",
+            "object": "CDISC SDTM Trial Summary Parameter Short Name Terminology"
+        }
+    },
+    {
+        "text": "Herpes Zoster may be prevented by Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor",
+        "triplet": {
+            "subject": "Herpes Zoster",
+            "predicate": "may be prevented by",
+            "object": "Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor"
+        }
+    },
+    {
+        "text": "Active immunization focus of Rubella status education",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "focus of",
+            "object": "Rubella status education"
+        }
+    },
+    {
+        "text": "vaccination use active immunization",
+        "triplet": {
+            "subject": "vaccination",
+            "predicate": "use",
+            "object": "active immunization"
+        }
+    },
+    {
+        "text": "Active immunization occurs before Vaccination site rash",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "occurs before",
+            "object": "Vaccination site rash"
+        }
+    },
+    {
+        "text": "Active immunization occurs before Post mixed vaccination encephalitis",
+        "triplet": {
+            "subject": "Active immunization",
+            "predicate": "occurs before",
+            "object": "Post mixed vaccination encephalitis"
+        }
+    },
+    {
+        "text": "Immune System has physical part of anatomic structure Peripheral Blood Lymphocyte",
+        "triplet": {
+            "subject": "Immune System",
+            "predicate": "has physical part of anatomic structure",
+            "object": "Peripheral Blood Lymphocyte"
+        }
+    },
+    {
+        "text": "Analgesic substance used by home care visit pain management subcutaneous injection of analgesic",
+        "triplet": {
+            "subject": "Analgesic",
+            "predicate": "substance used by",
+            "object": "home care visit pain management subcutaneous injection of analgesic"
+        }
+    },
+    {
+        "text": "Cancer Risk concept in subset CTRP Terminology",
+        "triplet": {
+            "subject": "Cancer Risk",
+            "predicate": "concept in subset",
+            "object": "CTRP Terminology"
+        }
+    },
+    {
+        "text": "Diabetes Mellitus may be associated disease of disease Pancreatic Acinar Cell Cystadenocarcinoma",
+        "triplet": {
+            "subject": "Diabetes Mellitus",
+            "predicate": "may be associated disease of disease",
+            "object": "Pancreatic Acinar Cell Cystadenocarcinoma"
+        }
+    },
+    {
+        "text": "Diabetes Mellitus may be associated disease of disease Pancreatic Poorly Differentiated Ductal Adenocarcinoma",
+        "triplet": {
+            "subject": "Diabetes Mellitus",
+            "predicate": "may be associated disease of disease",
+            "object": "Pancreatic Poorly Differentiated Ductal Adenocarcinoma"
+        }
+    },
+    {
+        "text": "Diabetes Mellitus may be associated disease of disease Pancreatic Serous Cystadenocarcinoma",
+        "triplet": {
+            "subject": "Diabetes Mellitus",
+            "predicate": "may be associated disease of disease",
+            "object": "Pancreatic Serous Cystadenocarcinoma"
+        }
+    },
+    {
+        "text": "Blood Glucose related to Carbohydrates",
+        "triplet": {
+            "subject": "Blood Glucose",
+            "predicate": "related to",
+            "object": "Carbohydrates"
+        }
+    },
+    {
+        "text": "Pancreas concept in subset Clinical Data Interchange Standards Consortium Terminology",
+        "triplet": {
+            "subject": "Pancreas",
+            "predicate": "concept in subset",
+            "object": "Clinical Data Interchange Standards Consortium Terminology"
+        }
+    },
+    {
+        "text": "Reduction of corticosteroid dosage has focus Administration of medication",
+        "triplet": {
+            "subject": "Reduction of corticosteroid dosage",
+            "predicate": "has focus",
+            "object": "Administration of medication"
+        }
+    },
+    {
+        "text": "Consultation replaces Nursing consultation and report",
+        "triplet": {
+            "subject": "Consultation",
+            "predicate": "replaces",
+            "object": "Nursing consultation and report"
+        }
+    },
+    {
+        "text": "Consultation possibly equivalent to Medical consultation with outpatient",
+        "triplet": {
+            "subject": "Consultation",
+            "predicate": "possibly equivalent to",
+            "object": "Medical consultation with outpatient"
+        }
+    },
+    {
+        "text": "Alcoholism may be treated by ondansetron hydrochloride",
+        "triplet": {
+            "subject": "Alcoholism",
+            "predicate": "may be treated by",
+            "object": "ondansetron hydrochloride"
+        }
+    },
+    {
+        "text": "Alcoholism may be prevented by disulfiram",
+        "triplet": {
+            "subject": "Alcoholism",
+            "predicate": "may be prevented by",
+            "object": "disulfiram"
+        }
+    },
+    {
+        "text": "lipitor use atorvastatin",
+        "triplet": {
+            "subject": "lipitor",
+            "predicate": "use",
+            "object": "atorvastatin"
+        }
+    },
+    {
+        "text": "Lipitor tradename of atorvastatin",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "tradename of",
+            "object": "atorvastatin"
+        }
+    },
+    {
+        "text": "Lipitor tradename of atorvastatin calcium",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "tradename of",
+            "object": "atorvastatin calcium"
+        }
+    },
+    {
+        "text": "Lipitor has precise ingredient atorvastatin calcium trihydrate",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "has precise ingredient",
+            "object": "atorvastatin calcium trihydrate"
+        }
+    },
+    {
+        "text": "Lipitor has precise ingredient atorvastatin calcium",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "has precise ingredient",
+            "object": "atorvastatin calcium"
+        }
+    },
+    {
+        "text": "Lipitor ingredient of Lipitor Pill",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "ingredient of",
+            "object": "Lipitor Pill"
+        }
+    },
+    {
+        "text": "Lipitor ingredient of Lipitor Oral Product",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "ingredient of",
+            "object": "Lipitor Oral Product"
+        }
+    },
+    {
+        "text": "Lipitor tradename of Atorvastatin Calcium",
+        "triplet": {
+            "subject": "Lipitor",
+            "predicate": "tradename of",
+            "object": "Atorvastatin Calcium"
+        }
+    },
+    {
+        "text": "LIVER FUNCTION clinically associated with HEPATOMEGALY",
+        "triplet": {
+            "subject": "LIVER FUNCTION",
+            "predicate": "clinically associated with",
+            "object": "HEPATOMEGALY"
+        }
+    },
+    {
+        "text": "LIVER FUNCTION clinically associated with SPLENOMEGALY",
+        "triplet": {
+            "subject": "LIVER FUNCTION",
+            "predicate": "clinically associated with",
+            "object": "SPLENOMEGALY"
+        }
+    },
+    {
+        "text": "suplemento de calcio substance used by terapia con suplemento de calcio",
+        "triplet": {
+            "subject": "suplemento de calcio",
+            "predicate": "substance used by",
+            "object": "terapia con suplemento de calcio"
+        }
+    },
+    {
+        "text": "Calcium has member calcium glucoheptonate",
+        "triplet": {
+            "subject": "Calcium",
+            "predicate": "has member",
+            "object": "calcium glucoheptonate"
+        }
+    },
+    {
+        "text": "Osteoporosis may be prevented by calcium gluconate monohydrate",
+        "triplet": {
+            "subject": "Osteoporosis",
+            "predicate": "may be prevented by",
+            "object": "calcium gluconate monohydrate"
+        }
+    },
+    {
+        "text": "Osteoporosis may be prevented by ergocalciferol",
+        "triplet": {
+            "subject": "Osteoporosis",
+            "predicate": "may be prevented by",
+            "object": "ergocalciferol"
+        }
+    },
+    {
+        "text": "Osteoporosis may be treated by calcifediol anhydrous",
+        "triplet": {
+            "subject": "Osteoporosis",
+            "predicate": "may be treated by",
+            "object": "calcifediol anhydrous"
+        }
+    },
+    {
+        "text": "Osteoporosis may be treated by medronate disodium",
+        "triplet": {
+            "subject": "Osteoporosis",
+            "predicate": "may be treated by",
+            "object": "medronate disodium"
+        }
+    },
+    {
+        "text": "Osteoporosis focus of dietary counseling pertaining to osteoporosis",
+        "triplet": {
+            "subject": "Osteoporosis",
+            "predicate": "focus of",
+            "object": "dietary counseling pertaining to osteoporosis"
+        }
+    },
+    {
+        "text": "Osteoporosis may be treated by ethylestrenol",
+        "triplet": {
+            "subject": "Osteoporosis",
+            "predicate": "may be treated by",
+            "object": "ethylestrenol"
+        }
+    },
+    {
+        "text": "MAGNESIUM ingredient of MAGNACAL NUTRITIONAL SUPPLEMENT LIQUID",
+        "triplet": {
+            "subject": "MAGNESIUM",
+            "predicate": "ingredient of",
+            "object": "MAGNACAL NUTRITIONAL SUPPLEMENT LIQUID"
+        }
+    },
+    {
+        "text": "magnesium ingredient of multivitamin with minerals Calcium and Magnesium oral tablet",
+        "triplet": {
+            "subject": "magnesium",
+            "predicate": "ingredient of",
+            "object": "multivitamin with minerals Calcium and Magnesium oral tablet"
+        }
+    },
+    {
+        "text": "Osteogenesis Imperfecta related to Bone Diseases",
+        "triplet": {
+            "subject": "Osteogenesis Imperfecta",
+            "predicate": "related to",
+            "object": "Bone Diseases"
+        }
+    },
+    {
+        "text": "Osteogenesis Imperfecta disease has associated anatomic site Connective and Soft Tissue",
+        "triplet": {
+            "subject": "Osteogenesis Imperfecta",
+            "predicate": "disease has associated anatomic site",
+            "object": "Connective and Soft Tissue"
+        }
+    },
+    {
+        "text": "Chronic Cervicitis disease has associated anatomic site Reproductive System",
+        "triplet": {
+            "subject": "Chronic Cervicitis",
+            "predicate": "disease has associated anatomic site",
+            "object": "Reproductive System"
+        }
+    },
+    {
+        "text": "Chronic cervicitis has associated morphology Chronic inflammatory morphology",
+        "triplet": {
+            "subject": "Chronic cervicitis",
+            "predicate": "has associated morphology",
+            "object": "Chronic inflammatory morphology"
+        }
+    },
+    {
+        "text": "Chronic Cervicitis disease has associated anatomic site Uterus",
+        "triplet": {
+            "subject": "Chronic Cervicitis",
+            "predicate": "disease has associated anatomic site",
+            "object": "Uterus"
+        }
+    },
+    {
+        "text": "Chronic cervicitis has finding site Cervix uteri structure",
+        "triplet": {
+            "subject": "Chronic cervicitis",
+            "predicate": "has finding site",
+            "object": "Cervix uteri structure"
+        }
+    },
+    {
+        "text": "Inflammation may be treated by rilonacept",
+        "triplet": {
+            "subject": "Inflammation",
+            "predicate": "may be treated by",
+            "object": "rilonacept"
+        }
+    },
+    {
+        "text": "Cervix uteri structure direct procedure site of Hysterotrachelorrhaphy",
+        "triplet": {
+            "subject": "Cervix uteri structure",
+            "predicate": "direct procedure site of",
+            "object": "Hysterotrachelorrhaphy"
+        }
+    },
+    {
+        "text": "Mosaicism use Chromosome Disorders",
+        "triplet": {
+            "subject": "Mosaicism",
+            "predicate": "use",
+            "object": "Chromosome Disorders"
+        }
+    },
+    {
+        "text": "genome mutation use chromosome aberration",
+        "triplet": {
+            "subject": "genome mutation",
+            "predicate": "use",
+            "object": "chromosome aberration"
+        }
+    },
+    {
+        "text": "Metformin is value for gdc property Pharmacologic Substance",
+        "triplet": {
+            "subject": "Metformin",
+            "predicate": "is value for gdc property",
+            "object": "Pharmacologic Substance"
+        }
+    },
+    {
+        "text": "metformin has physiologic effect Increased Glucose Transport into Cells",
+        "triplet": {
+            "subject": "metformin",
+            "predicate": "has physiologic effect",
+            "object": "Increased Glucose Transport into Cells"
+        }
+    },
+    {
+        "text": "metformin has tradename Actoplus Met",
+        "triplet": {
+            "subject": "metformin",
+            "predicate": "has tradename",
+            "object": "Actoplus Met"
+        }
+    },
+    {
+        "text": "hypertension associated with high bp",
+        "triplet": {
+            "subject": "hypertension",
+            "predicate": "associated with",
+            "object": "high bp"
+        }
+    },
+    {
+        "text": "HYPERTENSION clinically associated with HYPERGLYCEMIA",
+        "triplet": {
+            "subject": "HYPERTENSION",
+            "predicate": "clinically associated with",
+            "object": "HYPERGLYCEMIA"
+        }
+    },
+    {
+        "text": "Hypertension may be treated by guafacine hydrochloride",
+        "triplet": {
+            "subject": "Hypertension",
+            "predicate": "may be treated by",
+            "object": "guafacine hydrochloride"
+        }
+    },
+    {
+        "text": "HYPERTENSION clinically associated with HYPERCHOLESTEROLEMIA",
+        "triplet": {
+            "subject": "HYPERTENSION",
+            "predicate": "clinically associated with",
+            "object": "HYPERCHOLESTEROLEMIA"
+        }
+    },
+    {
+        "text": "hypoglycemic agent used for glucophage",
+        "triplet": {
+            "subject": "hypoglycemic agent",
+            "predicate": "used for",
+            "object": "glucophage"
+        }
+    },
+    {
+        "text": "Hypoglycemic agent possibly equivalent to Other drugs used in diabetes",
+        "triplet": {
+            "subject": "Hypoglycemic agent",
+            "predicate": "possibly equivalent to",
+            "object": "Other drugs used in diabetes"
+        }
+    },
+    {
+        "text": "aclidinium contraindicated with disease Drug Hypersensitivity",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "contraindicated with disease",
+            "object": "Drug Hypersensitivity"
+        }
+    },
+    {
+        "text": "aclidinium contraindicated with disease Milk Hypersensitivity",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "contraindicated with disease",
+            "object": "Milk Hypersensitivity"
+        }
+    },
+    {
+        "text": "aclidinium has physiologic effect Bronchodilation",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "has physiologic effect",
+            "object": "Bronchodilation"
+        }
+    },
+    {
+        "text": "aclidinium has therapeutic class Respiratory System Agent",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "has therapeutic class",
+            "object": "Respiratory System Agent"
+        }
+    },
+    {
+        "text": "aclidinium has parent Anticholinergic",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "has parent",
+            "object": "Anticholinergic"
+        }
+    },
+    {
+        "text": "aclidinium has mechanism of action Cholinergic Muscarinic Antagonists",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "has mechanism of action",
+            "object": "Cholinergic Muscarinic Antagonists"
+        }
+    },
+    {
+        "text": "aclidinium may treat Bronchial Spasm",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "may treat",
+            "object": "Bronchial Spasm"
+        }
+    },
+    {
+        "text": "aclidinium has mechanism of action Cholinergic Antagonists",
+        "triplet": {
+            "subject": "aclidinium",
+            "predicate": "has mechanism of action",
+            "object": "Cholinergic Antagonists"
+        }
+    },
+    {
+        "text": "Steroid has structural class Steroids",
+        "triplet": {
+            "subject": "Steroid",
+            "predicate": "has structural class",
+            "object": "Steroids"
+        }
+    },
+    {
+        "text": "Contraindicated procedure context of Bupropion contraindicated",
+        "triplet": {
+            "subject": "Contraindicated",
+            "predicate": "procedure context of",
+            "object": "Bupropion contraindicated"
+        }
+    },
+    {
+        "text": "Contraindicated procedure context of Dipyridamole contraindicated",
+        "triplet": {
+            "subject": "Contraindicated",
+            "predicate": "procedure context of",
+            "object": "Dipyridamole contraindicated"
+        }
+    },
+    {
+        "text": "Contraindicated procedure context of Diuretic contraindicated",
+        "triplet": {
+            "subject": "Contraindicated",
+            "predicate": "procedure context of",
+            "object": "Diuretic contraindicated"
+        }
+    },
+    {
+        "text": "Contraindicated procedure context of Surgery contraindicated",
+        "triplet": {
+            "subject": "Contraindicated",
+            "predicate": "procedure context of",
+            "object": "Surgery contraindicated"
+        }
+    },
+    {
+        "text": "Cataract surgery inverse during Intraoperative floppy iris syndrome following administration of tamsulosin",
+        "triplet": {
+            "subject": "Cataract surgery",
+            "predicate": "inverse during",
+            "object": "Intraoperative floppy iris syndrome following administration of tamsulosin"
+        }
+    },
+    {
+        "text": "cataract surgery used for enzymatic zonulolysis",
+        "triplet": {
+            "subject": "cataract surgery",
+            "predicate": "used for",
+            "object": "enzymatic zonulolysis"
+        }
+    },
+    {
+        "text": "Cataract surgery occurs before Postoperative cataract syndrome",
+        "triplet": {
+            "subject": "Cataract surgery",
+            "predicate": "occurs before",
+            "object": "Postoperative cataract syndrome"
+        }
+    },
+    {
+        "text": "Gastroesophageal reflux associated with Esophageal reflux",
+        "triplet": {
+            "subject": "Gastroesophageal reflux",
+            "predicate": "associated with",
+            "object": "Esophageal reflux"
+        }
+    },
+    {
+        "text": "Oesophageal reflux associated with Gastroesophageal reflux",
+        "triplet": {
+            "subject": "Oesophageal reflux",
+            "predicate": "associated with",
+            "object": "Gastroesophageal reflux"
+        }
+    },
+    {
+        "text": "PUD ddx GASTRITIS",
+        "triplet": {
+            "subject": "PUD",
+            "predicate": "ddx",
+            "object": "GASTRITIS"
+        }
+    },
+    {
+        "text": "Peptic Ulcer related to Gastrointestinal Bleeding",
+        "triplet": {
+            "subject": "Peptic Ulcer",
+            "predicate": "related to",
+            "object": "Gastrointestinal Bleeding"
+        }
+    },
+    {
+        "text": "Colon Polyp disease has associated anatomic site Digestive System",
+        "triplet": {
+            "subject": "Colon Polyp",
+            "predicate": "disease has associated anatomic site",
+            "object": "Digestive System"
+        }
+    },
+    {
+        "text": "COLON NOS POLYP clinically associated with GASTROINTESTINAL BLEED",
+        "triplet": {
+            "subject": "COLON NOS POLYP",
+            "predicate": "clinically associated with",
+            "object": "GASTROINTESTINAL BLEED"
+        }
+    },
+    {
+        "text": "PANCREATITIS clinically associated with TOBACCO DEPENDENCE",
+        "triplet": {
+            "subject": "PANCREATITIS",
+            "predicate": "clinically associated with",
+            "object": "TOBACCO DEPENDENCE"
+        }
+    },
+    {
+        "text": "PANCREATITIS clinically associated with SUBSTANCE ABUSE",
+        "triplet": {
+            "subject": "PANCREATITIS",
+            "predicate": "clinically associated with",
+            "object": "SUBSTANCE ABUSE"
+        }
+    },
+    {
+        "text": "Fibromyositis disease has associated anatomic site Connective and Soft Tissue",
+        "triplet": {
+            "subject": "Fibromyositis",
+            "predicate": "disease has associated anatomic site",
+            "object": "Connective and Soft Tissue"
+        }
+    },
+    {
+        "text": "Fibromyalgia possibly equivalent to Fibrositis",
+        "triplet": {
+            "subject": "Fibromyalgia",
+            "predicate": "possibly equivalent to",
+            "object": "Fibrositis"
+        }
+    },
+    {
+        "text": "ANKLE SWELLING clinically associated with SIGN SYMPTOM COMPLEX",
+        "triplet": {
+            "subject": "ANKLE SWELLING",
+            "predicate": "clinically associated with",
+            "object": "SIGN SYMPTOM COMPLEX"
+        }
+    },
+    {
+        "text": "NEEDLE STICK INJURY clinically associated with HEPATITIS B",
+        "triplet": {
+            "subject": "NEEDLE STICK INJURY",
+            "predicate": "clinically associated with",
+            "object": "HEPATITIS B"
+        }
+    },
+    {
+        "text": "oncogenic virus used for oncogenic viruslike particle",
+        "triplet": {
+            "subject": "oncogenic virus",
+            "predicate": "used for",
+            "object": "oncogenic viruslike particle"
+        }
+    },
+    {
+        "text": "INFLAMM entry version of Inflammation",
+        "triplet": {
+            "subject": "INFLAMM",
+            "predicate": "entry version of",
+            "object": "Inflammation"
+        }
+    },
+    {
+        "text": "LIVER CANCER alias of HEPATOCELLULAR CARCINOMA",
+        "triplet": {
+            "subject": "LIVER CANCER",
+            "predicate": "alias of",
+            "object": "HEPATOCELLULAR CARCINOMA"
+        }
+    },
+    {
+        "text": "Upper gastrointestinal endoscopy diagnoses Diagnosis for stomach",
+        "triplet": {
+            "subject": "Upper gastrointestinal endoscopy",
+            "predicate": "diagnoses",
+            "object": "Diagnosis for stomach"
+        }
+    },
+    {
+        "text": "Upper gastrointestinal endoscopy diagnoses Diagnosis for esophagus",
+        "triplet": {
+            "subject": "Upper gastrointestinal endoscopy",
+            "predicate": "diagnoses",
+            "object": "Diagnosis for esophagus"
+        }
+    },
+    {
+        "text": "UPPER GASTROINTESTINAL ENDOSCOPY clinically associated with GASTROINTESTINAL BLEED",
+        "triplet": {
+            "subject": "UPPER GASTROINTESTINAL ENDOSCOPY",
+            "predicate": "clinically associated with",
+            "object": "GASTROINTESTINAL BLEED"
+        }
+    },
+    {
+        "text": "Upper gastrointestinal endoscopy diagnoses Diagnosis for duodenum",
+        "triplet": {
+            "subject": "Upper gastrointestinal endoscopy",
+            "predicate": "diagnoses",
+            "object": "Diagnosis for duodenum"
+        }
+    },
+    {
+        "text": "Upper gastrointestinal endoscopy has location Upper gastrointestinal tract",
+        "triplet": {
+            "subject": "Upper gastrointestinal endoscopy",
+            "predicate": "has location",
+            "object": "Upper gastrointestinal tract"
+        }
+    },
+    {
+        "text": "Gastrointestinal Tract is not primary anatomic site of disease Inflammatory Hepatocellular Adenoma",
+        "triplet": {
+            "subject": "Gastrointestinal Tract",
+            "predicate": "is not primary anatomic site of disease",
+            "object": "Inflammatory Hepatocellular Adenoma"
+        }
+    },
+    {
+        "text": "Gastrointestinal Tract is primary anatomic site of disease Extrahepatic Bile Duct Tubular Adenoma",
+        "triplet": {
+            "subject": "Gastrointestinal Tract",
+            "predicate": "is primary anatomic site of disease",
+            "object": "Extrahepatic Bile Duct Tubular Adenoma"
+        }
+    },
+    {
+        "text": "Gastrointestinal tract structure direct procedure site of Fluoroscopy of barium small bowel meal and follow through",
+        "triplet": {
+            "subject": "Gastrointestinal tract structure",
+            "predicate": "direct procedure site of",
+            "object": "Fluoroscopy of barium small bowel meal and follow through"
+        }
+    },
+    {
+        "text": "Gastrointestinal tract structure direct procedure site of Fluoroscopic gastrointestinal tract loopography",
+        "triplet": {
+            "subject": "Gastrointestinal tract structure",
+            "predicate": "direct procedure site of",
+            "object": "Fluoroscopic gastrointestinal tract loopography"
+        }
+    },
+    {
+        "text": "Gastrointestinal Tract is not primary anatomic site of disease Extragastrointestinal Gastrointestinal Stromal Tumor",
+        "triplet": {
+            "subject": "Gastrointestinal Tract",
+            "predicate": "is not primary anatomic site of disease",
+            "object": "Extragastrointestinal Gastrointestinal Stromal Tumor"
+        }
+    },
+    {
+        "text": "LIVER clinically associated with HEPATITIS B",
+        "triplet": {
+            "subject": "LIVER",
+            "predicate": "clinically associated with",
+            "object": "HEPATITIS B"
+        }
+    },
+    {
+        "text": "Liver is not primary anatomic site of disease Gastric Hepatoid Adenocarcinoma",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is not primary anatomic site of disease",
+            "object": "Gastric Hepatoid Adenocarcinoma"
+        }
+    },
+    {
+        "text": "Liver is value for gdc property Targeted Anatomic Site",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is value for gdc property",
+            "object": "Targeted Anatomic Site"
+        }
+    },
+    {
+        "text": "Liver is associated anatomic site of Early Hepatocellular Carcinoma",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is associated anatomic site of",
+            "object": "Early Hepatocellular Carcinoma"
+        }
+    },
+    {
+        "text": "Liver structure direct procedure site of Laparoscopic radiofrequency ablation of neoplasm of liver",
+        "triplet": {
+            "subject": "Liver structure",
+            "predicate": "direct procedure site of",
+            "object": "Laparoscopic radiofrequency ablation of neoplasm of liver"
+        }
+    },
+    {
+        "text": "Liver is associated anatomic site of Liver Cavernous Hemangioma",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is associated anatomic site of",
+            "object": "Liver Cavernous Hemangioma"
+        }
+    },
+    {
+        "text": "Liver is primary anatomic site of disease Poorly Differentiated Hepatocellular Carcinoma",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is primary anatomic site of disease",
+            "object": "Poorly Differentiated Hepatocellular Carcinoma"
+        }
+    },
+    {
+        "text": "Liver is associated anatomic site of Poorly Differentiated Hepatocellular Carcinoma",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is associated anatomic site of",
+            "object": "Poorly Differentiated Hepatocellular Carcinoma"
+        }
+    },
+    {
+        "text": "Liver is associated anatomic site of Well Differentiated Hepatocellular Carcinoma",
+        "triplet": {
+            "subject": "Liver",
+            "predicate": "is associated anatomic site of",
+            "object": "Well Differentiated Hepatocellular Carcinoma"
+        }
+    },
+    {
+        "text": "BACTEREMIA clinically associated with HEADACHE",
+        "triplet": {
+            "subject": "BACTEREMIA",
+            "predicate": "clinically associated with",
+            "object": "HEADACHE"
+        }
+    },
+    {
+        "text": "BACTEREMIA clinically associated with ENDOCARDITIS BACTERIAL SUBACUTE",
+        "triplet": {
+            "subject": "BACTEREMIA",
+            "predicate": "clinically associated with",
+            "object": "ENDOCARDITIS BACTERIAL SUBACUTE"
+        }
+    },
+    {
+        "text": "ENDOCARDITIS clinically associated with CONGESTIVE HEART FAILURE",
+        "triplet": {
+            "subject": "ENDOCARDITIS",
+            "predicate": "clinically associated with",
+            "object": "CONGESTIVE HEART FAILURE"
+        }
+    },
+    {
+        "text": "endocarditis associated with be",
+        "triplet": {
+            "subject": "endocarditis",
+            "predicate": "associated with",
+            "object": "be"
+        }
+    },
+    {
+        "text": "endocarditis associated with sbe",
+        "triplet": {
+            "subject": "endocarditis",
+            "predicate": "associated with",
+            "object": "sbe"
+        }
+    },
+    {
+        "text": "Endocarditis focus of endocarditis as indication for cardiac catheterization",
+        "triplet": {
+            "subject": "Endocarditis",
+            "predicate": "focus of",
+            "object": "endocarditis as indication for cardiac catheterization"
+        }
+    },
+    {
+        "text": "endocarditis associated with ie",
+        "triplet": {
+            "subject": "endocarditis",
+            "predicate": "associated with",
+            "object": "ie"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with CONGESTIVE HEART FAILURE",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "CONGESTIVE HEART FAILURE"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with JOINT EFFUSION ACUTE",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "JOINT EFFUSION ACUTE"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with RESPIRATORY ARREST WITHOUT TRAUMA",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "RESPIRATORY ARREST WITHOUT TRAUMA"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with ENDOCARDITIS",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "ENDOCARDITIS"
+        }
+    },
+    {
+        "text": "Sepsis focus of cardiac catheterization complicated by sepsis",
+        "triplet": {
+            "subject": "Sepsis",
+            "predicate": "focus of",
+            "object": "cardiac catheterization complicated by sepsis"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with RIGOR",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "RIGOR"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with DISCHARGE PLANNING",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "DISCHARGE PLANNING"
+        }
+    },
+    {
+        "text": "SEPSIS clinically associated with HEARING LOSS",
+        "triplet": {
+            "subject": "SEPSIS",
+            "predicate": "clinically associated with",
+            "object": "HEARING LOSS"
+        }
+    },
+    {
+        "text": "Ischemic Strokes permuted term of Ischemic Stroke",
+        "triplet": {
+            "subject": "Ischemic Strokes",
+            "predicate": "permuted term of",
+            "object": "Ischemic Stroke"
+        }
+    },
+    {
+        "text": "Ischaemic Strokes permuted term of Ischaemic Stroke",
+        "triplet": {
+            "subject": "Ischaemic Strokes",
+            "predicate": "permuted term of",
+            "object": "Ischaemic Stroke"
+        }
+    },
+    {
+        "text": "neurologic examination use nervous system disorder diagnosis",
+        "triplet": {
+            "subject": "neurologic examination",
+            "predicate": "use",
+            "object": "nervous system disorder diagnosis"
+        }
+    },
+    {
+        "text": "Autoimmune Disorders use Immunologic Disorders",
+        "triplet": {
+            "subject": "Autoimmune Disorders",
+            "predicate": "use",
+            "object": "Immunologic Disorders"
+        }
+    },
+    {
+        "text": "Effexor ingredient of Effexor Oral Product",
+        "triplet": {
+            "subject": "Effexor",
+            "predicate": "ingredient of",
+            "object": "Effexor Oral Product"
+        }
+    },
+    {
+        "text": "Effexor tradename of Venlafaxine Hydrochloride",
+        "triplet": {
+            "subject": "Effexor",
+            "predicate": "tradename of",
+            "object": "Venlafaxine Hydrochloride"
+        }
+    },
+    {
+        "text": "venlafaxine may treat Attention Deficit Disorder with Hyperactivity",
+        "triplet": {
+            "subject": "venlafaxine",
+            "predicate": "may treat",
+            "object": "Attention Deficit Disorder with Hyperactivity"
+        }
+    },
+    {
+        "text": "venlafaxine has physiologic effect Increased Central Nervous System Norepinephrine Activity",
+        "triplet": {
+            "subject": "venlafaxine",
+            "predicate": "has physiologic effect",
+            "object": "Increased Central Nervous System Norepinephrine Activity"
+        }
+    },
+    {
+        "text": "venlafaxine has physiologic effect Increased Central Nervous System Serotonin Activity",
+        "triplet": {
+            "subject": "venlafaxine",
+            "predicate": "has physiologic effect",
+            "object": "Increased Central Nervous System Serotonin Activity"
+        }
+    },
+    {
+        "text": "venlafaxine contraindicated mechanism of action of Monoamine Oxidase Inhibitors",
+        "triplet": {
+            "subject": "venlafaxine",
+            "predicate": "contraindicated mechanism of action of",
+            "object": "Monoamine Oxidase Inhibitors"
+        }
+    },
+    {
+        "text": "venlafaxine has mechanism of action Norepinephrine Uptake Inhibitors",
+        "triplet": {
+            "subject": "venlafaxine",
+            "predicate": "has mechanism of action",
+            "object": "Norepinephrine Uptake Inhibitors"
+        }
+    },
+    {
+        "text": "medication has owning subsection operations",
+        "triplet": {
+            "subject": "medication",
+            "predicate": "has owning subsection",
+            "object": "operations"
+        }
+    },
+    {
+        "text": "AORTIC STENOSIS clinically associated with CORONARY ATHEROSCLEROTIC HEART DISEASE",
+        "triplet": {
+            "subject": "AORTIC STENOSIS",
+            "predicate": "clinically associated with",
+            "object": "CORONARY ATHEROSCLEROTIC HEART DISEASE"
+        }
+    },
+    {
+        "text": "AORTIC STENOSIS clinically associated with CHEST PAIN",
+        "triplet": {
+            "subject": "AORTIC STENOSIS",
+            "predicate": "clinically associated with",
+            "object": "CHEST PAIN"
+        }
+    },
+    {
+        "text": "AORTIC STENOSIS clinically associated with AORTIC VALVE REPLACEMENT",
+        "triplet": {
+            "subject": "AORTIC STENOSIS",
+            "predicate": "clinically associated with",
+            "object": "AORTIC VALVE REPLACEMENT"
+        }
+    },
+    {
+        "text": "AORTIC STENOSIS clinically associated with HYPERTENSION",
+        "triplet": {
+            "subject": "AORTIC STENOSIS",
+            "predicate": "clinically associated with",
+            "object": "HYPERTENSION"
+        }
+    },
+    {
+        "text": "AORTIC STENOSIS clinically associated with HEART DISEASE",
+        "triplet": {
+            "subject": "AORTIC STENOSIS",
+            "predicate": "clinically associated with",
+            "object": "HEART DISEASE"
+        }
+    },
+    {
+        "text": "Aorta is associated anatomic site of Malignant Aortic Neoplasm",
+        "triplet": {
+            "subject": "Aorta",
+            "predicate": "is associated anatomic site of",
+            "object": "Malignant Aortic Neoplasm"
+        }
+    },
+    {
+        "text": "Narrowing associated morphology of Bronchiolitis obliterans syndrome due to and following allogeneic stem cell transplant",
+        "triplet": {
+            "subject": "Narrowing",
+            "predicate": "associated morphology of",
+            "object": "Bronchiolitis obliterans syndrome due to and following allogeneic stem cell transplant"
+        }
+    },
+    {
+        "text": "Narrowing associated morphology of Bronchiolitis obliterans syndrome due to and after lung transplantation",
+        "triplet": {
+            "subject": "Narrowing",
+            "predicate": "associated morphology of",
+            "object": "Bronchiolitis obliterans syndrome due to and after lung transplantation"
+        }
+    },
+    {
+        "text": "Narrowing associated morphology of Toxic bronchiolitis obliterans",
+        "triplet": {
+            "subject": "Narrowing",
+            "predicate": "associated morphology of",
+            "object": "Toxic bronchiolitis obliterans"
+        }
+    },
+    {
+        "text": "Heart is associated anatomic site of Severe Cardiac Valve Regurgitation",
+        "triplet": {
+            "subject": "Heart",
+            "predicate": "is associated anatomic site of",
+            "object": "Severe Cardiac Valve Regurgitation"
+        }
+    },
+    {
+        "text": "Heart is associated anatomic site of Moderate Cardiac Valve Regurgitation",
+        "triplet": {
+            "subject": "Heart",
+            "predicate": "is associated anatomic site of",
+            "object": "Moderate Cardiac Valve Regurgitation"
+        }
+    },
+    {
+        "text": "Heart is associated anatomic site of Structural Heart Abnormality",
+        "triplet": {
+            "subject": "Heart",
+            "predicate": "is associated anatomic site of",
+            "object": "Structural Heart Abnormality"
+        }
+    },
+    {
+        "text": "Heart is associated anatomic site of Mild Cardiac Valve Regurgitation",
+        "triplet": {
+            "subject": "Heart",
+            "predicate": "is associated anatomic site of",
+            "object": "Mild Cardiac Valve Regurgitation"
+        }
+    },
+    {
+        "text": "LEUKOCYTOSIS clinically associated with WBC",
+        "triplet": {
+            "subject": "LEUKOCYTOSIS",
+            "predicate": "clinically associated with",
+            "object": "WBC"
+        }
+    }
+]

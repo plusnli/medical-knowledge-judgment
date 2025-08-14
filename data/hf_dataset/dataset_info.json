@@ -1,0 +1,52 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "original_triplet": {
+      "object": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "predicate": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "subject": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "semantic_type": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "pos_qa": {
+      "answer": {
+        "dtype": "bool",
+        "_type": "Value"
+      },
+      "statement": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "neg_qa": {
+      "answer": {
+        "dtype": "bool",
+        "_type": "Value"
+      },
+      "statement": {
+        "feature": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
